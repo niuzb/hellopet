@@ -1,0 +1,227 @@
+#include "Engine/NetWork/OnlineNetworkManager.h"
+#include "XLogicManager.h"
+#include "CCDirector.h"
+#include "AppDelegate.h"
+#include "SimpleAudioEngine.h"
+#include "Layers/Game/BattleLayer.h"
+#include "Layers/UI/BattleUILayer.h"
+#include "Layers/Game/LayerCommonEnum.h"
+#include "SkeletonAnimRcsManager.h"
+#include "Map/MapDataCenter.h"
+#include "Engine/NetWork/MessageHandler.h"
+#include "Props/PropsTriggerManager.h"
+#include "Layers/UI/MainMenuLayer.h"
+#include "Layers/UI/LoginUILayer.h"
+#include "Sound/SoundConfigDataCenter.h"
+#include "Timer/TimeSynchronizer.h"
+#include "Timer/HeartbeatPackageSender.h"
+#include "Sprite/SpriteArmyPool.h"
+#include "Layers/Game/LoadingLayer.h"
+#include "Layers/Game/BattleLoadingLayer.h"
+#include "Lua/LuaTinkerManager.h"
+
+#include "cocos-ext.h"
+#include "cocos2d.h"
+
+USING_NS_CC;
+USING_NS_CC_EXT;
+
+using namespace CocosDenshion;
+
+// -----------------------------------------------------------------------------------------
+static XLogicManager *g_sLogicMgr = NULL;
+
+XLogicManager::XLogicManager():
+	isGameStart(false)
+{
+	this->retain();
+
+	LuaTinkerManager::Create();
+}
+
+XLogicManager::~XLogicManager()
+{
+	exitGame();
+}
+
+/////////////////////////////////////////////////////////////
+/// application will resume from background
+void XLogicManager::WillEnterForeground()
+{
+	CCDirector::sharedDirector()->startAnimation();
+	SimpleAudioEngine::sharedEngine()->resumeBackgroundMusic();
+}
+
+void XLogicManager::DidEnterBackground()
+{
+	CCDirector::sharedDirector()->stopAnimation();
+	SimpleAudioEngine::sharedEngine()->pauseBackgroundMusic();
+}
+
+void XLogicManager::initFixedConfigData()
+{
+	MapDataCenter::Get();
+	SkeletonAnimRcsManager::Get()->LoadAllAnimConnectionData();
+	SkeletonAnimRcsManager::Get()->ReadABBoxData();
+	PropsTriggerManager::Get()->Init();
+	SoundConfigDataCenter::Get()->ReadData();
+}
+
+void XLogicManager::initGameConfigData()
+{
+	initFixedConfigData();
+}
+
+/*
+* @prototype: startGame()
+* @note:
+*     start the game now, bring the player to the hometown.
+* @param: void
+* @return: void
+*/
+void XLogicManager::startGame()
+{
+	if(!isGameStart)
+	{
+		initGameConfigData();
+		//connectToServer();
+		this->goToLayer(E_ENTER_GAME,NULL);
+		isGameStart = true;
+	}
+	else
+	{
+		CCAssert(false,"XLogicManager::startGame() game is already started");
+	}
+}
+
+void XLogicManager::exitGame()
+{
+	isGameStart = false;
+	// Note: 销毁全局的实例对象
+	OnlineNetworkManager::Destroy();
+	MessageHandler::Destroy();
+	MapDataCenter::Destroy();
+	SkeletonAnimRcsManager::Destroy();
+	PropsTriggerManager::Destroy();
+	TimerSynchronizer::shareSynchronizer()->Destory();
+	HeartBeatPackageSender::Destroy();
+	SpriteArmyPool::Destroy();
+}
+
+//static instance
+XLogicManager* XLogicManager::sharedManager()
+{
+	if (g_sLogicMgr == NULL)
+	{
+		g_sLogicMgr = new XLogicManager();
+		g_sLogicMgr->autorelease();
+	}
+	return g_sLogicMgr;
+}
+
+// functions
+// go to a specific scene
+void  XLogicManager::goToLayer(GAME_LOGIC_LAYER sceneTag, void *userData )
+{
+	// Note: 清空动画资源&加载场景依赖的资源
+	SkeletonAnimRcsManager::Get()->ClearAllLoadedRcs();
+	//SkeletonAnimRcsManager::Get()->LoadLayerNeedRcs(sceneTag);
+
+	switch(sceneTag)
+	{
+	case E_UI_LOGIN_LAYER:
+		{
+			CCScene* pScene = CCScene::create();
+			if (pScene)
+			{
+				CCScene *pRunningScene = CCDirector::sharedDirector()->getRunningScene();
+				if (pRunningScene)
+				{
+					CCDirector::sharedDirector()->replaceScene(pScene);
+				}
+				else
+				{
+					CCDirector::sharedDirector()->runWithScene(pScene);
+				}
+
+				LoginUILayer* pLoginUILayer = LoginUILayer::create();
+				if (pLoginUILayer)
+				{
+					pScene->addChild(pLoginUILayer,1,TAG_LAYER_LOGIN);
+				}
+			}
+		}
+		break;
+		case E_UI_MAIN_LAYER:
+			{
+				CCScene* pScene = CCScene::create();
+				if (pScene)
+				{
+					CCScene *pRunningScene = CCDirector::sharedDirector()->getRunningScene();
+					if (pRunningScene)
+					{
+						CCDirector::sharedDirector()->replaceScene(pScene);
+					}
+					else
+					{
+						CCDirector::sharedDirector()->runWithScene(pScene);
+					}
+
+					MainMenuUILayer* pMainMenuUILayer = MainMenuUILayer::create();
+					if (pMainMenuUILayer)
+					{
+						pScene->addChild(pMainMenuUILayer,1,TAG_LAYER_MAINMENU);
+					}
+				}
+			}
+			break;
+		case E_ENTER_GAME:
+			{				
+				CCScene* pScene = CCScene::create();
+				if (pScene)
+				{
+					CCScene *pRunningScene = CCDirector::sharedDirector()->getRunningScene();
+					if (pRunningScene)
+					{
+						CCDirector::sharedDirector()->replaceScene(pScene);
+					}
+					else
+					{ 
+						CCDirector::sharedDirector()->runWithScene(pScene);
+					}
+
+					BattleLoadingLayer* pLoadingLayer = NULL;
+					int* pData = (int *)userData;
+					if (pData)
+					{
+						pLoadingLayer = BattleLoadingLayer::create();
+						pLoadingLayer->SetInitData(LoadingLayer::E_JOINER_ENTER_BATTLE,(*pData));
+					}
+					else
+					{
+						pLoadingLayer = BattleLoadingLayer::create();
+						pLoadingLayer->SetInitData(LoadingLayer::E_CREATOR_ENTER_BATTLE,0);
+					}
+					if (pLoadingLayer)
+					{
+						pScene->addChild(pLoadingLayer,Z_ORDER_LOADING_UI,TAG_LAYER_LOADING);
+					}
+				}
+			}
+			break;
+		case E_UI_GAME_OVER:
+			{
+			}			
+			break;
+		default:
+			CCLOGWARN("invalid paramerter: %d", sceneTag);
+			break;
+	}
+}
+
+void XLogicManager::connectToServer()
+{
+	CCLog("XLogicManager::connectToServer()");
+	
+	OnlineNetworkManager::sShareInstance()->startConnect();   
+}

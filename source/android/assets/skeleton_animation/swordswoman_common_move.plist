@@ -1,0 +1,1591 @@
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>swordswoman_common_move:asa/11.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{202,224},{77,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,43}}</string>
+                <key>sourceSize</key>
+                <string>{77,43}</string>
+            </dict>
+            <key>swordswoman_common_move:asa/12.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{562,186},{79,45}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,45}}</string>
+                <key>sourceSize</key>
+                <string>{79,45}</string>
+            </dict>
+            <key>swordswoman_common_move:asa/13.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{83,160},{79,49}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,49}}</string>
+                <key>sourceSize</key>
+                <string>{79,49}</string>
+            </dict>
+            <key>swordswoman_common_move:asa/14.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,160},{80,48}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,48}}</string>
+                <key>sourceSize</key>
+                <string>{80,48}</string>
+            </dict>
+            <key>swordswoman_common_move:asa/15.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{564,133},{80,50}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,50}}</string>
+                <key>sourceSize</key>
+                <string>{80,50}</string>
+            </dict>
+            <key>swordswoman_common_move:asa/16.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{387,128},{81,50}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{81,50}}</string>
+                <key>sourceSize</key>
+                <string>{81,50}</string>
+            </dict>
+            <key>swordswoman_common_move:asa/17.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{203,169},{76,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{76,52}}</string>
+                <key>sourceSize</key>
+                <string>{76,52}</string>
+            </dict>
+            <key>swordswoman_common_move:asa/19.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{282,169},{74,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,52}}</string>
+                <key>sourceSize</key>
+                <string>{74,52}</string>
+            </dict>
+            <key>swordswoman_common_move:asa/20.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{647,133},{79,50}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,50}}</string>
+                <key>sourceSize</key>
+                <string>{79,50}</string>
+            </dict>
+            <key>swordswoman_common_move:b nvjian pifeng.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{471,128},{78,53}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,53}}</string>
+                <key>sourceSize</key>
+                <string>{78,53}</string>
+            </dict>
+            <key>swordswoman_common_move:b p1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,295},{72,29}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{72,29}}</string>
+                <key>sourceSize</key>
+                <string>{72,29}</string>
+            </dict>
+            <key>swordswoman_common_move:b p2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{202,270},{73,36}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,36}}</string>
+                <key>sourceSize</key>
+                <string>{73,36}</string>
+            </dict>
+            <key>swordswoman_common_move:b p3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{196,309},{66,29}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{66,29}}</string>
+                <key>sourceSize</key>
+                <string>{66,29}</string>
+            </dict>
+            <key>swordswoman_common_move:b p4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{626,311},{74,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,17}}</string>
+                <key>sourceSize</key>
+                <string>{74,17}</string>
+            </dict>
+            <key>swordswoman_common_move:c nvjian fa.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{830,203},{36,34}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{36,34}}</string>
+                <key>sourceSize</key>
+                <string>{36,34}</string>
+            </dict>
+            <key>swordswoman_common_move:c nvjian hujian1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{357,283},{15,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,9}}</string>
+                <key>sourceSize</key>
+                <string>{15,9}</string>
+            </dict>
+            <key>swordswoman_common_move:c nvjian shou1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1007,291},{11,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,9}}</string>
+                <key>sourceSize</key>
+                <string>{11,9}</string>
+            </dict>
+            <key>swordswoman_common_move:c nvjian shou1 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{344,289},{10,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{10,9}}</string>
+                <key>sourceSize</key>
+                <string>{10,9}</string>
+            </dict>
+            <key>swordswoman_common_move:c nvjian shou2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{448,290},{9,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{9,9}}</string>
+                <key>sourceSize</key>
+                <string>{9,9}</string>
+            </dict>
+            <key>swordswoman_common_move:c nvjian shoujia 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{846,277},{16,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,10}}</string>
+                <key>sourceSize</key>
+                <string>{16,10}</string>
+            </dict>
+            <key>swordswoman_common_move:c nvjian shoujia2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{543,290},{13,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,10}}</string>
+                <key>sourceSize</key>
+                <string>{13,10}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian d2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{200,157}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,157}}</string>
+                <key>sourceSize</key>
+                <string>{200,157}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian p1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{559,276},{64,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{64,39}}</string>
+                <key>sourceSize</key>
+                <string>{64,39}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian p10.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{461,276},{63,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,42}}</string>
+                <key>sourceSize</key>
+                <string>{63,42}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian p14.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{727,242},{44,62}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{44,62}}</string>
+                <key>sourceSize</key>
+                <string>{44,62}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian p15.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{928,243},{45,58}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{45,58}}</string>
+                <key>sourceSize</key>
+                <string>{45,58}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian p31214.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{82,256},{70,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{70,44}}</string>
+                <key>sourceSize</key>
+                <string>{70,44}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian p5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{774,292},{49,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,46}}</string>
+                <key>sourceSize</key>
+                <string>{49,46}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian p8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{719,307},{48,47}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{48,47}}</string>
+                <key>sourceSize</key>
+                <string>{48,47}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian tui 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{359,169},{19,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,22}}</string>
+                <key>sourceSize</key>
+                <string>{19,22}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian xie 9.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{976,263},{12,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,16}}</string>
+                <key>sourceSize</key>
+                <string>{12,16}</string>
+            </dict>
+            <key>swordswoman_common_move:nv jian xie6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1008,259},{13,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,15}}</string>
+                <key>sourceSize</key>
+                <string>{13,15}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian d1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{387,0},{174,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{174,125}}</string>
+                <key>sourceSize</key>
+                <string>{174,125}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian d3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{564,0},{167,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{167,130}}</string>
+                <key>sourceSize</key>
+                <string>{167,130}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian d5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{203,0},{181,166}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{181,166}}</string>
+                <key>sourceSize</key>
+                <string>{181,166}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian fa1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{830,127},{40,33}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{40,33}}</string>
+                <key>sourceSize</key>
+                <string>{40,33}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian fa3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{165,160},{35,37}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{35,37}}</string>
+                <key>sourceSize</key>
+                <string>{35,37}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian huijian2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{165,254},{16,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,14}}</string>
+                <key>sourceSize</key>
+                <string>{16,14}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian hujian2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{527,292},{11,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,8}}</string>
+                <key>sourceSize</key>
+                <string>{11,8}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian hujian3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{844,290},{12,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,8}}</string>
+                <key>sourceSize</key>
+                <string>{12,8}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian hutui7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{184,262},{15,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,13}}</string>
+                <key>sourceSize</key>
+                <string>{15,13}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian jiao1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{359,194},{17,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{17,22}}</string>
+                <key>sourceSize</key>
+                <string>{17,22}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian jiao2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{543,273},{13,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,14}}</string>
+                <key>sourceSize</key>
+                <string>{13,14}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian jiao2 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{829,261},{14,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,15}}</string>
+                <key>sourceSize</key>
+                <string>{14,15}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian kudang1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{155,271},{17,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{17,10}}</string>
+                <key>sourceSize</key>
+                <string>{17,10}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian kudang2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{357,270},{17,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{17,10}}</string>
+                <key>sourceSize</key>
+                <string>{17,10}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian lian1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,84},{24,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{24,25}}</string>
+                <key>sourceSize</key>
+                <string>{24,25}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian lian1 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,112},{24,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{24,25}}</string>
+                <key>sourceSize</key>
+                <string>{24,25}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian lian11.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,56},{24,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{24,25}}</string>
+                <key>sourceSize</key>
+                <string>{24,25}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian lian2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,29},{25,24}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{25,24}}</string>
+                <key>sourceSize</key>
+                <string>{25,24}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian lian2 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,0},{25,26}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{25,26}}</string>
+                <key>sourceSize</key>
+                <string>{25,26}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p111.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{393,316},{56,28}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{56,28}}</string>
+                <key>sourceSize</key>
+                <string>{56,28}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p114.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{644,275},{72,33}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{72,33}}</string>
+                <key>sourceSize</key>
+                <string>{72,33}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p12.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{923,304},{55,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{55,42}}</string>
+                <key>sourceSize</key>
+                <string>{55,42}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p123.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{774,246},{52,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{52,43}}</string>
+                <key>sourceSize</key>
+                <string>{52,43}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p14.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{278,274},{63,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,44}}</string>
+                <key>sourceSize</key>
+                <string>{63,44}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p16.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{138,303},{55,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{55,42}}</string>
+                <key>sourceSize</key>
+                <string>{55,42}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{75,303},{60,37}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,37}}</string>
+                <key>sourceSize</key>
+                <string>{60,37}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{873,133},{59,49}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{59,49}}</string>
+                <key>sourceSize</key>
+                <string>{59,49}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian p9.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{344,316},{46,41}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{46,41}}</string>
+                <key>sourceSize</key>
+                <string>{46,41}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian pifeng1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{282,224},{72,47}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{72,47}}</string>
+                <key>sourceSize</key>
+                <string>{72,47}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shenti1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,202},{21,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,15}}</string>
+                <key>sourceSize</key>
+                <string>{21,15}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shou4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{626,290},{11,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,10}}</string>
+                <key>sourceSize</key>
+                <string>{11,10}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shou5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{344,274},{10,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{10,12}}</string>
+                <key>sourceSize</key>
+                <string>{10,12}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shoubi1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1010,242},{11,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,14}}</string>
+                <key>sourceSize</key>
+                <string>{11,14}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shoubi1 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{357,253},{17,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{17,14}}</string>
+                <key>sourceSize</key>
+                <string>{17,14}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shoubi3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{552,128},{9,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{9,13}}</string>
+                <key>sourceSize</key>
+                <string>{9,13}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shoubi4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{552,175},{7,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{7,12}}</string>
+                <key>sourceSize</key>
+                <string>{7,12}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shoujia4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,240},{16,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,15}}</string>
+                <key>sourceSize</key>
+                <string>{16,15}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian shoujia5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{175,278},{13,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,12}}</string>
+                <key>sourceSize</key>
+                <string>{13,12}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{359,219},{19,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,14}}</string>
+                <key>sourceSize</key>
+                <string>{19,14}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{976,243},{12,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,17}}</string>
+                <key>sourceSize</key>
+                <string>{12,17}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{552,159},{8,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{8,13}}</string>
+                <key>sourceSize</key>
+                <string>{8,13}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{155,284},{14,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,9}}</string>
+                <key>sourceSize</key>
+                <string>{14,9}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui4 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{543,234},{15,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,16}}</string>
+                <key>sourceSize</key>
+                <string>{15,16}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{976,282},{12,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,11}}</string>
+                <key>sourceSize</key>
+                <string>{12,11}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui5 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{527,276},{13,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,13}}</string>
+                <key>sourceSize</key>
+                <string>{13,13}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui51.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{829,279},{12,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,12}}</string>
+                <key>sourceSize</key>
+                <string>{12,12}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tui6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{626,276},{15,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,11}}</string>
+                <key>sourceSize</key>
+                <string>{15,11}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian tuijia2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{543,253},{14,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,17}}</string>
+                <key>sourceSize</key>
+                <string>{14,17}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian weijing2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{165,200},{32,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{32,18}}</string>
+                <key>sourceSize</key>
+                <string>{32,18}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian weijing3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{830,240},{36,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{36,18}}</string>
+                <key>sourceSize</key>
+                <string>{36,18}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian xie3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{846,261},{15,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,13}}</string>
+                <key>sourceSize</key>
+                <string>{15,13}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian xie3 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1010,220},{11,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,19}}</string>
+                <key>sourceSize</key>
+                <string>{11,19}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian xie5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{543,212},{15,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,19}}</string>
+                <key>sourceSize</key>
+                <string>{15,19}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian xie6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,140},{22,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{22,19}}</string>
+                <key>sourceSize</key>
+                <string>{22,19}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjian xie7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{165,221},{18,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,14}}</string>
+                <key>sourceSize</key>
+                <string>{18,14}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiang tou5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{830,163},{36,37}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{36,37}}</string>
+                <key>sourceSize</key>
+                <string>{36,37}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiang xie 8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,220},{16,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,17}}</string>
+                <key>sourceSize</key>
+                <string>{16,17}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiang xie 8 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{543,190},{16,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,19}}</string>
+                <key>sourceSize</key>
+                <string>{16,19}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjianshenti2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,162},{21,20}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,20}}</string>
+                <key>sourceSize</key>
+                <string>{21,20}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjianshoubi2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{552,144},{9,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{9,12}}</string>
+                <key>sourceSize</key>
+                <string>{9,12}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiantui1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1007,277},{14,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,11}}</string>
+                <key>sourceSize</key>
+                <string>{14,11}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiantui1 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,276},{13,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,13}}</string>
+                <key>sourceSize</key>
+                <string>{13,13}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiantui1 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,258},{14,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,15}}</string>
+                <key>sourceSize</key>
+                <string>{14,15}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiantui3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{186,243},{13,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,16}}</string>
+                <key>sourceSize</key>
+                <string>{13,16}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiantui3 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{186,221},{13,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,19}}</string>
+                <key>sourceSize</key>
+                <string>{13,19}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiantui4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{165,238},{18,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,13}}</string>
+                <key>sourceSize</key>
+                <string>{18,13}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiantui4 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{357,236},{18,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,14}}</string>
+                <key>sourceSize</key>
+                <string>{18,14}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjiantuijia1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{448,273},{10,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{10,14}}</string>
+                <key>sourceSize</key>
+                <string>{10,14}</string>
+            </dict>
+            <key>swordswoman_common_move:nvjianweijing1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,185},{26,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{26,14}}</string>
+                <key>sourceSize</key>
+                <string>{26,14}</string>
+            </dict>
+            <key>swordswoman_common_move:p 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{381,181},{78,47}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,47}}</string>
+                <key>sourceSize</key>
+                <string>{78,47}</string>
+            </dict>
+            <key>swordswoman_common_move:p123.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{859,291},{61,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{61,39}}</string>
+                <key>sourceSize</key>
+                <string>{61,39}</string>
+            </dict>
+            <key>swordswoman_common_move:p2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{644,186},{78,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,43}}</string>
+                <key>sourceSize</key>
+                <string>{78,43}</string>
+            </dict>
+            <key>swordswoman_common_move:p233.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{869,185},{65,48}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{65,48}}</string>
+                <key>sourceSize</key>
+                <string>{65,48}</string>
+            </dict>
+            <key>swordswoman_common_move:p3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{381,231},{77,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,39}}</string>
+                <key>sourceSize</key>
+                <string>{77,39}</string>
+            </dict>
+            <key>swordswoman_common_move:p334.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{869,236},{56,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{56,52}}</string>
+                <key>sourceSize</key>
+                <string>{56,52}</string>
+            </dict>
+            <key>swordswoman_common_move:p4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{461,234},{79,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,39}}</string>
+                <key>sourceSize</key>
+                <string>{79,39}</string>
+            </dict>
+            <key>swordswoman_common_move:p4334.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{377,273},{68,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{68,40}}</string>
+                <key>sourceSize</key>
+                <string>{68,40}</string>
+            </dict>
+            <key>swordswoman_common_move:p5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{644,232},{80,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,40}}</string>
+                <key>sourceSize</key>
+                <string>{80,40}</string>
+            </dict>
+            <key>swordswoman_common_move:p6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,254},{79,38}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,38}}</string>
+                <key>sourceSize</key>
+                <string>{79,38}</string>
+            </dict>
+            <key>swordswoman_common_move:p7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{561,234},{80,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,39}}</string>
+                <key>sourceSize</key>
+                <string>{80,39}</string>
+            </dict>
+            <key>swordswoman_common_move:p8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,211},{80,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,40}}</string>
+                <key>sourceSize</key>
+                <string>{80,40}</string>
+            </dict>
+            <key>swordswoman_common_move:p9.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{83,212},{79,41}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,41}}</string>
+                <key>sourceSize</key>
+                <string>{79,41}</string>
+            </dict>
+            <key>swordswoman_common_move:sdfgfff34444.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{734,0},{139,124}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{139,124}}</string>
+                <key>sourceSize</key>
+                <string>{139,124}</string>
+            </dict>
+            <key>swordswoman_common_move:wuqi_1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{785,127},{42,116}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{42,116}}</string>
+                <key>sourceSize</key>
+                <string>{42,116}</string>
+            </dict>
+            <key>swordswoman_common_move:wuqi_20.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{939,0},{50,119}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{50,119}}</string>
+                <key>sourceSize</key>
+                <string>{50,119}</string>
+            </dict>
+            <key>swordswoman_common_move:wuqi_40.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{734,127},{48,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{48,112}}</string>
+                <key>sourceSize</key>
+                <string>{48,112}</string>
+            </dict>
+            <key>swordswoman_common_move:wuqi_60.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{939,122},{49,118}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,118}}</string>
+                <key>sourceSize</key>
+                <string>{49,118}</string>
+            </dict>
+            <key>swordswoman_common_move:wuqi_80.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{876,0},{60,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,130}}</string>
+                <key>sourceSize</key>
+                <string>{60,130}</string>
+            </dict>
+            <key>swordswoman_common_move:z nvjian pifeng1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{462,184},{78,47}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,47}}</string>
+                <key>sourceSize</key>
+                <string>{78,47}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>realTextureFileName</key>
+            <string>swordswoman_common_move.pvr.ccz</string>
+            <key>size</key>
+            <string>{1022,357}</string>
+            <key>textureFileName</key>
+            <string>swordswoman_common_move.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,5 @@
+cocos2dx
+obj
+bin
+*.class
+Debug.win32

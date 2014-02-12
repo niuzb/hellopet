@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/1101077902/!svn/ver/458/hellopet/1/source/Classes/Client/Sprite
+END
+SpriteArmyPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/1101077902/!svn/ver/310/hellopet/1/source/Classes/Client/Sprite/SpriteArmyPool.h
+END
+SpriteOthHero.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/437/hellopet/1/source/Classes/Client/Sprite/SpriteOthHero.cpp
+END
+SpriteBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/1101077902/!svn/ver/458/hellopet/1/source/Classes/Client/Sprite/SpriteBase.cpp
+END
+SpriteCastle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/1101077902/!svn/ver/458/hellopet/1/source/Classes/Client/Sprite/SpriteCastle.cpp
+END
+SpriteCastleBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/457/hellopet/1/source/Classes/Client/Sprite/SpriteCastleBase.h
+END
+SpriteOthHero.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/1101077902/!svn/ver/422/hellopet/1/source/Classes/Client/Sprite/SpriteOthHero.h
+END
+SpriteBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/1101077902/!svn/ver/458/hellopet/1/source/Classes/Client/Sprite/SpriteBase.h
+END
+SpriteBaseNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/310/hellopet/1/source/Classes/Client/Sprite/SpriteBaseNode.cpp
+END
+SpriteCastle.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/1101077902/!svn/ver/422/hellopet/1/source/Classes/Client/Sprite/SpriteCastle.h
+END
+UserData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/1101077902/!svn/ver/318/hellopet/1/source/Classes/Client/Sprite/UserData.cpp
+END
+SpriteDefiner.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/1101077902/!svn/ver/350/hellopet/1/source/Classes/Client/Sprite/SpriteDefiner.h
+END
+SpriteBaseNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/1101077902/!svn/ver/310/hellopet/1/source/Classes/Client/Sprite/SpriteBaseNode.h
+END
+UserData.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/1101077902/!svn/ver/454/hellopet/1/source/Classes/Client/Sprite/UserData.h
+END
+SpriteOthCastle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/458/hellopet/1/source/Classes/Client/Sprite/SpriteOthCastle.cpp
+END
+SpriteCreatorFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/Sprite/SpriteCreatorFactory.cpp
+END
+SpriteHeroBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/458/hellopet/1/source/Classes/Client/Sprite/SpriteHeroBase.cpp
+END
+BoneAnimSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/457/hellopet/1/source/Classes/Client/Sprite/BoneAnimSprite.cpp
+END
+SpriteOthCastle.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/422/hellopet/1/source/Classes/Client/Sprite/SpriteOthCastle.h
+END
+SpriteCreatorFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/Sprite/SpriteCreatorFactory.h
+END
+SpriteHero.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/1101077902/!svn/ver/437/hellopet/1/source/Classes/Client/Sprite/SpriteHero.cpp
+END
+BoneAnimSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/1101077902/!svn/ver/453/hellopet/1/source/Classes/Client/Sprite/BoneAnimSprite.h
+END
+SpriteHeroBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/1101077902/!svn/ver/457/hellopet/1/source/Classes/Client/Sprite/SpriteHeroBase.h
+END
+RoleActorBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/298/hellopet/1/source/Classes/Client/Sprite/RoleActorBase.cpp
+END
+SpriteDecorationBatchNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/1101077902/!svn/ver/457/hellopet/1/source/Classes/Client/Sprite/SpriteDecorationBatchNode.cpp
+END
+SpriteHero.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/1101077902/!svn/ver/422/hellopet/1/source/Classes/Client/Sprite/SpriteHero.h
+END
+SpriteArmyPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/385/hellopet/1/source/Classes/Client/Sprite/SpriteArmyPool.cpp
+END
+RoleActorBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/1101077902/!svn/ver/298/hellopet/1/source/Classes/Client/Sprite/RoleActorBase.h
+END
+SpriteDecorationBatchNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/1101077902/!svn/ver/406/hellopet/1/source/Classes/Client/Sprite/SpriteDecorationBatchNode.h
+END
+SpriteCastleBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/458/hellopet/1/source/Classes/Client/Sprite/SpriteCastleBase.cpp
+END

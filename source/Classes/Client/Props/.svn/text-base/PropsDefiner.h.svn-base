@@ -1,0 +1,16 @@
+#ifndef _PROPS_DEFINER_H_
+#define _PROPS_DEFINER_H_
+
+
+typedef enum PropsType
+{
+	kType_Prop_LOCAL_ICE_EXPLOSION = 0,
+	kType_Prop_LOCAL_CROSS_EXPLOSION,
+	kType_Prop_DROP_FIRE_BALL,
+	kType_Prop_AWAY_EXPLOSION,
+	kType_Prop_ROUND_BOMB,
+	kType_Prop_WithHero_Protect,
+	kType_Prop_Type_UnKnow
+};
+
+#endif	//_PROPS_DEFINER_H_

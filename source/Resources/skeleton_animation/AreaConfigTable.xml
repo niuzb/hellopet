@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+  <Role id="101">
+    <Actions />
+  </Role>
+  <Role id="180">
+    <Actions />
+  </Role>
+  <Role id="112">
+    <Actions />
+  </Role>
+  <Role id="216">
+    <Actions>
+      <Action id="100000" direction="back">
+        <C upLeftPX="-2" upLeftPY="2" downRightPX="2" downRightPY="-2" />
+      </Action>
+    </Actions>
+  </Role>
+  <Role id="1">
+    <Actions>
+      <Action id="1000" direction="back">
+        <C upLeftPX="-3" upLeftPY="3" downRightPX="3" downRightPY="-3" />
+      </Action>
+    </Actions>
+  </Role>
+</Root>

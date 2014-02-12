@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/GraphicShape/RenderShape
+END
+RenderShapeBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/GraphicShape/RenderShape/RenderShapeBase.h
+END
+RenderATriangleShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/GraphicShape/RenderShape/RenderATriangleShape.cpp
+END
+RenderLineShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/GraphicShape/RenderShape/RenderLineShape.cpp
+END
+RenderShapeBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/GraphicShape/RenderShape/RenderShapeBase.cpp
+END
+RenderATriangleShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/GraphicShape/RenderShape/RenderATriangleShape.h
+END
+RenderLineShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/GraphicShape/RenderShape/RenderLineShape.h
+END

@@ -1,0 +1,187 @@
+#include "UIManager.h"
+#include "cocos2d.h"
+
+USING_NS_CC;
+
+UIManager::UIManager()
+{
+}
+
+UIManager::~UIManager()
+{
+}
+
+void UIManager::ScaleWidgetToScreen(Layout* pLayout)
+{
+	if (pLayout)
+	{
+		CCSize wndSize = CCDirector::sharedDirector()->getWinSize();
+		CCSize size = pLayout->getSize();		
+		pLayout->setScaleX(wndSize.width / size.width);
+		pLayout->setScaleY(wndSize.height / size.height);
+	}
+}
+
+// Note: 默认Layout及其子节点都没有scale
+void UIManager::AdjustWidgetForScreen(UIWidget* pWidget,const CCPoint& toScreenAnchorPt,const CCPoint& widgetAnchorPt)
+{
+	if (pWidget)
+	{
+		if (toScreenAnchorPt.x <= 1.0 && toScreenAnchorPt.x >= 0.0 &&
+			toScreenAnchorPt.y <= 1.0 && toScreenAnchorPt.y >= 0.0 &&
+			widgetAnchorPt.x <= 1.0 && widgetAnchorPt.x >= 0.0 &&
+			widgetAnchorPt.y <= 1.0 && widgetAnchorPt.y >= 0.0
+			)
+		{
+			UIWidget* parentWidget = pWidget->getParent();
+			if (parentWidget)
+			{
+				CCSize designerPanelSize = parentWidget->getSize();
+				CCPoint orginScreenPt = ccp(designerPanelSize.width * toScreenAnchorPt.x,designerPanelSize.height * toScreenAnchorPt.y);				
+
+				CCSize widgetSize = pWidget->getSize();
+				widgetSize.width = pWidget->getScaleX() * widgetSize.width;
+				widgetSize.height = pWidget->getScaleY() * widgetSize.height;
+
+				CCPoint widgetOrginAnchorPt = pWidget->getAnchorPoint();
+				CCPoint widgetOrginPos = pWidget->getPosition();
+				// Note: 计算新的widget锚点情况下，widget的偏移位置
+				CCPoint newWidgetOffsetPos = ccp(widgetOrginPos.x + (widgetAnchorPt.x - widgetOrginAnchorPt.x) * widgetSize.width,
+										   widgetOrginPos.y + (widgetAnchorPt.y - widgetOrginAnchorPt.y) * widgetSize.height);
+				// Note: 得到widget相对于父节点新锚点的位置		
+				CCPoint relativeToScreenPt;
+				relativeToScreenPt.x = newWidgetOffsetPos.x - orginScreenPt.x;
+				relativeToScreenPt.y = newWidgetOffsetPos.y - orginScreenPt.y;
+
+				pWidget->setAnchorPoint(widgetAnchorPt);
+				pWidget->setPosition(newWidgetOffsetPos);
+
+				float scale = GetScaleFactor();
+				pWidget->setScaleX(scale * pWidget->getScaleX());
+				pWidget->setScaleY(scale * pWidget->getScaleY());
+				USER_DATA &userData = pWidget->GetUserData();
+				userData.autoAdjustSysScale = scale;
+
+				CCSize wndSize = CCDirector::sharedDirector()->getWinSize();
+				CCPoint newScreenPt = ccp(toScreenAnchorPt.x * wndSize.width,
+					toScreenAnchorPt.y * wndSize.height);
+
+				CCPoint newRelativePt = ccp(newScreenPt.x + relativeToScreenPt.x * scale,
+					newScreenPt.y + relativeToScreenPt.y * scale);
+
+				pWidget->setPosition(newRelativePt);
+			}
+		}
+		else
+		{
+			char buffer[100];
+			sprintf(buffer,"UIManager::AdjustWidgetForScreen param error name %s",pWidget->getName());
+			CCAssert(false,buffer);
+		}
+	}
+}
+
+void UIManager::AdjustWidgetForScreen(UIWidget* pWidget,EAnchorPtType toScreenAnchorPtType,EAnchorPtType widgetAnchorPtType)
+{
+	if (pWidget)
+	{
+		CCPoint toScreenAnchorPt = GetAnchorPointByEnum(toScreenAnchorPtType);
+		CCPoint widgetAnchorPt = GetAnchorPointByEnum(widgetAnchorPtType);
+		AdjustWidgetForScreen(pWidget,toScreenAnchorPt,widgetAnchorPt);
+	}
+}
+
+float UIManager::GetScaleFactor()
+{
+	CCSize winSize = CCDirector::sharedDirector()->getWinSize();
+	float scaleX = winSize.width / DESIGN_PANEL_WIDTH;
+	float scaleY = winSize.height / DESIGN_PANEL_HEIGHT;
+
+	return (scaleX < scaleY)? scaleX : scaleY;
+}
+
+float UIManager::GetScaleFactorX()
+{
+	CCSize winSize = CCDirector::sharedDirector()->getWinSize();
+	float scaleX = winSize.width / DESIGN_PANEL_WIDTH;
+
+	return scaleX;
+}
+
+float UIManager::GetScaleFactorY()
+{
+	CCSize winSize = CCDirector::sharedDirector()->getWinSize();
+	float scaleY = winSize.height / DESIGN_PANEL_HEIGHT;
+
+	return scaleY;
+}
+
+float UIManager::GetMapScaleFactor()
+{
+	CCSize winSize = CCDirector::sharedDirector()->getWinSizeInPixels();
+	CCSize renderSize = CCDirector::sharedDirector()->getRenderSize();
+	float ratio = winSize.height / renderSize.height;
+	return ratio;
+}
+
+CCPoint UIManager::GetAnchorPointByEnum(EAnchorPtType type)
+{
+	switch(type)
+	{
+		// Note: 左上
+	case E_LEFT_UP:
+		{
+			return ccp(0,1);
+		}
+		break;
+		// Note: 中上
+	case E_MID_UP:
+		{
+			return ccp(0.5,1);
+		};
+		break;
+		// Note: 右上
+	case E_RIGHT_UP:
+		{
+			return ccp(1,1);
+		}
+		break;
+		// Note: 左中
+	case E_LEFT_CEN:
+		{
+			return ccp(0,0.5);
+		}
+		break;
+		// Note: 中中
+	case E_MID_CEN:
+		{
+			return ccp(0.5,0.5);
+		}
+		break;
+		// Note: 右中
+	case E_RIGHT_CEN:
+		{
+			return ccp(1,0.5);
+		}
+		break;
+		// Note: 左下
+	case E_LEFT_DOWN:
+		{
+			return ccp(0,0);
+		}
+		break;
+		// Note: 中下
+	case E_MID_DOWN:
+		{
+			return ccp(0.5,0);
+		}
+		break;
+		// Note: 右下
+	case E_RIGHT_DOWN:
+		{
+			return ccp(1,0);
+		}
+		break;			
+	};
+	return ccp(0,0);
+}

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/1101077902/!svn/ver/415/hellopet/1/source/Classes/Client/Props
+END
+PropsDataCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/414/hellopet/1/source/Classes/Client/Props/PropsDataCenter.cpp
+END
+WithHeroProtectProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/WithHeroProtectProp.h
+END
+HeroDeformProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/1101077902/!svn/ver/268/hellopet/1/source/Classes/Client/Props/HeroDeformProp.h
+END
+LocalExplosionProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/LocalExplosionProp.h
+END
+FlySingleBombProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/FlySingleBombProp.h
+END
+AwayExplosionProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/AwayExplosionProp.cpp
+END
+RoundFlyBombProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/RoundFlyBombProp.cpp
+END
+PropsDataCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/1101077902/!svn/ver/414/hellopet/1/source/Classes/Client/Props/PropsDataCenter.h
+END
+PropsDefiner.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/1101077902/!svn/ver/268/hellopet/1/source/Classes/Client/Props/PropsDefiner.h
+END
+AwayExplosionProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/AwayExplosionProp.h
+END
+RoundFlyBombProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/RoundFlyBombProp.h
+END
+PropBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/1101077902/!svn/ver/414/hellopet/1/source/Classes/Client/Props/PropBase.cpp
+END
+PropManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/1101077902/!svn/ver/415/hellopet/1/source/Classes/Client/Props/PropManager.cpp
+END
+PropsTriggerSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/1101077902/!svn/ver/356/hellopet/1/source/Classes/Client/Props/PropsTriggerSprite.cpp
+END
+PropManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/PropManager.h
+END
+PropBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/1101077902/!svn/ver/415/hellopet/1/source/Classes/Client/Props/PropBase.h
+END
+PropsTriggerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/1101077902/!svn/ver/415/hellopet/1/source/Classes/Client/Props/PropsTriggerManager.cpp
+END
+AutoFighterProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/268/hellopet/1/source/Classes/Client/Props/AutoFighterProp.cpp
+END
+PropsTriggerBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/414/hellopet/1/source/Classes/Client/Props/PropsTriggerBase.cpp
+END
+PropsTriggerSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/271/hellopet/1/source/Classes/Client/Props/PropsTriggerSprite.h
+END
+PropsTriggerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/414/hellopet/1/source/Classes/Client/Props/PropsTriggerManager.h
+END
+AutoFighterProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/1101077902/!svn/ver/268/hellopet/1/source/Classes/Client/Props/AutoFighterProp.h
+END
+PropsTriggerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/414/hellopet/1/source/Classes/Client/Props/PropsTriggerBase.h
+END
+HeroDeformProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/268/hellopet/1/source/Classes/Client/Props/HeroDeformProp.cpp
+END
+WithHeroProtectProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/WithHeroProtectProp.cpp
+END
+LocalExplosionProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/LocalExplosionProp.cpp
+END
+FlySingleBombProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/410/hellopet/1/source/Classes/Client/Props/FlySingleBombProp.cpp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/1101077902/!svn/ver/422/hellopet/1/source/Classes/Client/Common
+END
+MonsterData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/Common/MonsterData.cpp
+END
+Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/1101077902/!svn/ver/421/hellopet/1/source/Classes/Client/Common/Array.h
+END
+MonsterData.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/Common/MonsterData.h
+END
+MonsterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/Common/MonsterInfo.h
+END
+AdvPch.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/Common/AdvPch.h
+END
+Singleton_t.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/Common/Singleton_t.h
+END

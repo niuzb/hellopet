@@ -1,0 +1,1591 @@
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>skill_halfmoon: bnmnm333.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{768,679},{73,98}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,98}}</string>
+                <key>sourceSize</key>
+                <string>{73,98}</string>
+            </dict>
+            <key>skill_halfmoon:a/fs jn1 2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{587,476},{135,106}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{135,106}}</string>
+                <key>sourceSize</key>
+                <string>{135,106}</string>
+            </dict>
+            <key>skill_halfmoon:a/fs jn1 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{424,656},{160,129}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{160,129}}</string>
+                <key>sourceSize</key>
+                <string>{160,129}</string>
+            </dict>
+            <key>skill_halfmoon:a/fs jn1 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{845,677},{160,121}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{160,121}}</string>
+                <key>sourceSize</key>
+                <string>{160,121}</string>
+            </dict>
+            <key>skill_halfmoon:asa/11.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{194,809},{77,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,43}}</string>
+                <key>sourceSize</key>
+                <string>{77,43}</string>
+            </dict>
+            <key>skill_halfmoon:b shenti3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{335,562},{23,26}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{23,26}}</string>
+                <key>sourceSize</key>
+                <string>{23,26}</string>
+            </dict>
+            <key>skill_halfmoon:b shou1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{216,213},{10,7}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{10,7}}</string>
+                <key>sourceSize</key>
+                <string>{10,7}</string>
+            </dict>
+            <key>skill_halfmoon:b shoubi6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{695,610},{27,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{27,11}}</string>
+                <key>sourceSize</key>
+                <string>{27,11}</string>
+            </dict>
+            <key>skill_halfmoon:b tou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{335,664},{39,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{39,39}}</string>
+                <key>sourceSize</key>
+                <string>{39,39}</string>
+            </dict>
+            <key>skill_halfmoon:b weijing.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{377,705},{37,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{37,18}}</string>
+                <key>sourceSize</key>
+                <string>{37,18}</string>
+            </dict>
+            <key>skill_halfmoon:b weijing2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{274,825},{64,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{64,46}}</string>
+                <key>sourceSize</key>
+                <string>{64,46}</string>
+            </dict>
+            <key>skill_halfmoon:b weijing5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{768,780},{63,55}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,55}}</string>
+                <key>sourceSize</key>
+                <string>{63,55}</string>
+            </dict>
+            <key>skill_halfmoon:b youjiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,500},{18,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,15}}</string>
+                <key>sourceSize</key>
+                <string>{18,15}</string>
+            </dict>
+            <key>skill_halfmoon:b zuojiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{555,593},{22,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{22,19}}</string>
+                <key>sourceSize</key>
+                <string>{22,19}</string>
+            </dict>
+            <key>skill_halfmoon:bbcb1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{276,725},{62,97}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{62,97}}</string>
+                <key>sourceSize</key>
+                <string>{62,97}</string>
+            </dict>
+            <key>skill_halfmoon:c11.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{483,851},{55,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{55,9}}</string>
+                <key>sourceSize</key>
+                <string>{55,9}</string>
+            </dict>
+            <key>skill_halfmoon:c12.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{163,855},{70,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{70,11}}</string>
+                <key>sourceSize</key>
+                <string>{70,11}</string>
+            </dict>
+            <key>skill_halfmoon:c13.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{803,850},{84,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{84,12}}</string>
+                <key>sourceSize</key>
+                <string>{84,12}</string>
+            </dict>
+            <key>skill_halfmoon:c14.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{406,834},{96,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{96,14}}</string>
+                <key>sourceSize</key>
+                <string>{96,14}</string>
+            </dict>
+            <key>skill_halfmoon:c15.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,792},{109,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{109,16}}</string>
+                <key>sourceSize</key>
+                <string>{109,16}</string>
+            </dict>
+            <key>skill_halfmoon:c16.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{914,801},{106,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{106,16}}</string>
+                <key>sourceSize</key>
+                <string>{106,16}</string>
+            </dict>
+            <key>skill_halfmoon:c17.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,811},{108,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{108,12}}</string>
+                <key>sourceSize</key>
+                <string>{108,12}</string>
+            </dict>
+            <key>skill_halfmoon:cvbcvbc1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{587,682},{97,80}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{97,80}}</string>
+                <key>sourceSize</key>
+                <string>{97,80}</string>
+            </dict>
+            <key>skill_halfmoon:gujia/shenti 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{115,622},{21,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,15}}</string>
+                <key>sourceSize</key>
+                <string>{21,15}</string>
+            </dict>
+            <key>skill_halfmoon:gujia/weijing1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{329,706},{38,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{38,15}}</string>
+                <key>sourceSize</key>
+                <string>{38,15}</string>
+            </dict>
+            <key>skill_halfmoon:gujia/youjiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{987,576},{34,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{34,25}}</string>
+                <key>sourceSize</key>
+                <string>{34,25}</string>
+            </dict>
+            <key>skill_halfmoon:gujia/youshou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{845,604},{21,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,18}}</string>
+                <key>sourceSize</key>
+                <string>{21,18}</string>
+            </dict>
+            <key>skill_halfmoon:gujia/youtui.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{115,571},{22,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{22,25}}</string>
+                <key>sourceSize</key>
+                <string>{22,25}</string>
+            </dict>
+            <key>skill_halfmoon:gujia/zuobi1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,519},{14,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,15}}</string>
+                <key>sourceSize</key>
+                <string>{14,15}</string>
+            </dict>
+            <key>skill_halfmoon:gujia/zuojiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,444},{20,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{20,16}}</string>
+                <key>sourceSize</key>
+                <string>{20,16}</string>
+            </dict>
+            <key>skill_halfmoon:gujia/zuotui.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{555,569},{29,21}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{29,21}}</string>
+                <key>sourceSize</key>
+                <string>{29,21}</string>
+            </dict>
+            <key>skill_halfmoon:hujian2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,483},{16,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,16}}</string>
+                <key>sourceSize</key>
+                <string>{16,16}</string>
+            </dict>
+            <key>skill_halfmoon:kudang.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,502},{16,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,14}}</string>
+                <key>sourceSize</key>
+                <string>{16,14}</string>
+            </dict>
+            <key>skill_halfmoon:nmhj1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{229,0},{212,207}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{212,207}}</string>
+                <key>sourceSize</key>
+                <string>{212,207}</string>
+            </dict>
+            <key>skill_halfmoon:p 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{659,797},{78,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,46}}</string>
+                <key>sourceSize</key>
+                <string>{78,46}</string>
+            </dict>
+            <key>skill_halfmoon:p1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{377,687},{44,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{44,15}}</string>
+                <key>sourceSize</key>
+                <string>{44,15}</string>
+            </dict>
+            <key>skill_halfmoon:p10.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{695,679},{70,115}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{70,115}}</string>
+                <key>sourceSize</key>
+                <string>{70,115}</string>
+            </dict>
+            <key>skill_halfmoon:p11.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{341,726},{62,84}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{62,84}}</string>
+                <key>sourceSize</key>
+                <string>{62,84}</string>
+            </dict>
+            <key>skill_halfmoon:p2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{91,854},{69,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{69,22}}</string>
+                <key>sourceSize</key>
+                <string>{69,22}</string>
+            </dict>
+            <key>skill_halfmoon:p3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{587,765},{69,61}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{69,61}}</string>
+                <key>sourceSize</key>
+                <string>{69,61}</string>
+            </dict>
+            <key>skill_halfmoon:p4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{132,711},{76,95}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{76,95}}</string>
+                <key>sourceSize</key>
+                <string>{76,95}</string>
+            </dict>
+            <key>skill_halfmoon:p5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,677},{75,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{75,112}}</string>
+                <key>sourceSize</key>
+                <string>{75,112}</string>
+            </dict>
+            <key>skill_halfmoon:p6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{142,334},{76,120}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{76,120}}</string>
+                <key>sourceSize</key>
+                <string>{76,120}</string>
+            </dict>
+            <key>skill_halfmoon:p7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{142,200},{71,131}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{71,131}}</string>
+                <key>sourceSize</key>
+                <string>{71,131}</string>
+            </dict>
+            <key>skill_halfmoon:p8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{141,457},{71,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{71,125}}</string>
+                <key>sourceSize</key>
+                <string>{71,125}</string>
+            </dict>
+            <key>skill_halfmoon:p9.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{140,585},{70,123}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{70,123}}</string>
+                <key>sourceSize</key>
+                <string>{70,123}</string>
+            </dict>
+            <key>skill_halfmoon:pifeng 123.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{112,809},{79,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,42}}</string>
+                <key>sourceSize</key>
+                <string>{79,42}</string>
+            </dict>
+            <key>skill_halfmoon:pifeng/6 2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{834,801},{77,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,46}}</string>
+                <key>sourceSize</key>
+                <string>{77,46}</string>
+            </dict>
+            <key>skill_halfmoon:pifeng/6 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{624,846},{66,38}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{66,38}}</string>
+                <key>sourceSize</key>
+                <string>{66,38}</string>
+            </dict>
+            <key>skill_halfmoon:pifeng/6 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{914,820},{77,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,43}}</string>
+                <key>sourceSize</key>
+                <string>{77,43}</string>
+            </dict>
+            <key>skill_halfmoon:s d33.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{226,197}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{226,197}}</string>
+                <key>sourceSize</key>
+                <string>{226,197}</string>
+            </dict>
+            <key>skill_halfmoon:shenti.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{845,625},{21,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,15}}</string>
+                <key>sourceSize</key>
+                <string>{21,15}</string>
+            </dict>
+            <key>skill_halfmoon:shenti 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,463},{19,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,15}}</string>
+                <key>sourceSize</key>
+                <string>{19,15}</string>
+            </dict>
+            <key>skill_halfmoon:shoubi 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,534},{19,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,9}}</string>
+                <key>sourceSize</key>
+                <string>{19,9}</string>
+            </dict>
+            <key>skill_halfmoon:shoubi 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{126,468},{11,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,13}}</string>
+                <key>sourceSize</key>
+                <string>{11,13}</string>
+            </dict>
+            <key>skill_halfmoon:shoubi6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{845,586},{29,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{29,15}}</string>
+                <key>sourceSize</key>
+                <string>{29,15}</string>
+            </dict>
+            <key>skill_halfmoon:t1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{341,813},{62,55}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{62,55}}</string>
+                <key>sourceSize</key>
+                <string>{62,55}</string>
+            </dict>
+            <key>skill_halfmoon:t11.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,449},{123,119}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{123,119}}</string>
+                <key>sourceSize</key>
+                <string>{123,119}</string>
+            </dict>
+            <key>skill_halfmoon:t12.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{432,540},{120,113}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{120,113}}</string>
+                <key>sourceSize</key>
+                <string>{120,113}</string>
+            </dict>
+            <key>skill_halfmoon:t13.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{731,444},{128,121}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{128,121}}</string>
+                <key>sourceSize</key>
+                <string>{128,121}</string>
+            </dict>
+            <key>skill_halfmoon:t15.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,571},{112,103}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{112,103}}</string>
+                <key>sourceSize</key>
+                <string>{112,103}</string>
+            </dict>
+            <key>skill_halfmoon:t16.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{587,585},{105,94}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{105,94}}</string>
+                <key>sourceSize</key>
+                <string>{105,94}</string>
+            </dict>
+            <key>skill_halfmoon:t2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{725,568},{117,108}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{117,108}}</string>
+                <key>sourceSize</key>
+                <string>{117,108}</string>
+            </dict>
+            <key>skill_halfmoon:t21.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,826},{88,29}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{88,29}}</string>
+                <key>sourceSize</key>
+                <string>{88,29}</string>
+            </dict>
+            <key>skill_halfmoon:t22.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{406,788},{138,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{138,43}}</string>
+                <key>sourceSize</key>
+                <string>{138,43}</string>
+            </dict>
+            <key>skill_halfmoon:t23.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{221,437},{138,122}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{138,122}}</string>
+                <key>sourceSize</key>
+                <string>{138,122}</string>
+            </dict>
+            <key>skill_halfmoon:t24.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{731,252},{151,189}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{151,189}}</string>
+                <key>sourceSize</key>
+                <string>{151,189}</string>
+            </dict>
+            <key>skill_halfmoon:t25.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{229,210},{150,224}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{150,224}}</string>
+                <key>sourceSize</key>
+                <string>{150,224}</string>
+            </dict>
+            <key>skill_halfmoon:t26.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{588,0},{151,240}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{151,240}}</string>
+                <key>sourceSize</key>
+                <string>{151,240}</string>
+            </dict>
+            <key>skill_halfmoon:t27.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{444,0},{141,261}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{141,261}}</string>
+                <key>sourceSize</key>
+                <string>{141,261}</string>
+            </dict>
+            <key>skill_halfmoon:t28.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{742,0},{141,249}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{141,249}}</string>
+                <key>sourceSize</key>
+                <string>{141,249}</string>
+            </dict>
+            <key>skill_halfmoon:t29.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,200},{139,246}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{139,246}}</string>
+                <key>sourceSize</key>
+                <string>{139,246}</string>
+            </dict>
+            <key>skill_halfmoon:t3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{885,303},{136,136}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{136,136}}</string>
+                <key>sourceSize</key>
+                <string>{136,136}</string>
+            </dict>
+            <key>skill_halfmoon:t30.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{588,243},{140,230}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,230}}</string>
+                <key>sourceSize</key>
+                <string>{140,230}</string>
+            </dict>
+            <key>skill_halfmoon:t31.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{886,0},{123,168}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{123,168}}</string>
+                <key>sourceSize</key>
+                <string>{123,168}</string>
+            </dict>
+            <key>skill_halfmoon:t4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{885,442},{128,131}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{128,131}}</string>
+                <key>sourceSize</key>
+                <string>{128,131}</string>
+            </dict>
+            <key>skill_halfmoon:t5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{435,264},{139,143}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{139,143}}</string>
+                <key>sourceSize</key>
+                <string>{139,143}</string>
+            </dict>
+            <key>skill_halfmoon:t6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{886,171},{134,129}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{134,129}}</string>
+                <key>sourceSize</key>
+                <string>{134,129}</string>
+            </dict>
+            <key>skill_halfmoon:t7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{215,562},{117,111}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{117,111}}</string>
+                <key>sourceSize</key>
+                <string>{117,111}</string>
+            </dict>
+            <key>skill_halfmoon:t8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{880,576},{104,98}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{104,98}}</string>
+                <key>sourceSize</key>
+                <string>{104,98}</string>
+            </dict>
+            <key>skill_halfmoon:tou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{78,723},{49,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,42}}</string>
+                <key>sourceSize</key>
+                <string>{49,42}</string>
+            </dict>
+            <key>skill_halfmoon:tou 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{276,676},{50,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{50,46}}</string>
+                <key>sourceSize</key>
+                <string>{50,46}</string>
+            </dict>
+            <key>skill_halfmoon:tou 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{78,677},{51,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{51,43}}</string>
+                <key>sourceSize</key>
+                <string>{51,43}</string>
+            </dict>
+            <key>skill_halfmoon:tx 63.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{803,866},{208,152}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{208,152}}</string>
+                <key>sourceSize</key>
+                <string>{208,152}</string>
+            </dict>
+            <key>skill_halfmoon:tx 67.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{434,410},{150,127}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{150,127}}</string>
+                <key>sourceSize</key>
+                <string>{150,127}</string>
+            </dict>
+            <key>skill_halfmoon:weijing 14.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{740,838},{60,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,46}}</string>
+                <key>sourceSize</key>
+                <string>{60,46}</string>
+            </dict>
+            <key>skill_halfmoon:weijing 18.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{547,829},{74,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,40}}</string>
+                <key>sourceSize</key>
+                <string>{74,40}</string>
+            </dict>
+            <key>skill_halfmoon:weijing 19.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{406,851},{74,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,19}}</string>
+                <key>sourceSize</key>
+                <string>{74,19}</string>
+            </dict>
+            <key>skill_halfmoon:wuqi_1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{379,568},{42,116}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{42,116}}</string>
+                <key>sourceSize</key>
+                <string>{42,116}</string>
+            </dict>
+            <key>skill_halfmoon:wuqi_20.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{382,210},{50,119}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{50,119}}</string>
+                <key>sourceSize</key>
+                <string>{50,119}</string>
+            </dict>
+            <key>skill_halfmoon:wuqi_40.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{381,453},{48,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{48,112}}</string>
+                <key>sourceSize</key>
+                <string>{48,112}</string>
+            </dict>
+            <key>skill_halfmoon:wuqi_60.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{382,332},{49,118}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,118}}</string>
+                <key>sourceSize</key>
+                <string>{49,118}</string>
+            </dict>
+            <key>skill_halfmoon:wuqi_80.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{213,676},{60,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,130}}</string>
+                <key>sourceSize</key>
+                <string>{60,130}</string>
+            </dict>
+            <key>skill_halfmoon:youbi 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{555,615},{24,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{24,14}}</string>
+                <key>sourceSize</key>
+                <string>{24,14}</string>
+            </dict>
+            <key>skill_halfmoon:youbi1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,460},{15,20}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,20}}</string>
+                <key>sourceSize</key>
+                <string>{15,20}</string>
+            </dict>
+            <key>skill_halfmoon:youbi2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{216,200},{10,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{10,10}}</string>
+                <key>sourceSize</key>
+                <string>{10,10}</string>
+            </dict>
+            <key>skill_halfmoon:youshou 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{115,640},{21,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,10}}</string>
+                <key>sourceSize</key>
+                <string>{21,10}</string>
+            </dict>
+            <key>skill_halfmoon:youshou 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,481},{18,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,16}}</string>
+                <key>sourceSize</key>
+                <string>{18,16}</string>
+            </dict>
+            <key>skill_halfmoon:z jiao8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,573},{15,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,10}}</string>
+                <key>sourceSize</key>
+                <string>{15,10}</string>
+            </dict>
+            <key>skill_halfmoon:z kudang.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,562},{18,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,8}}</string>
+                <key>sourceSize</key>
+                <string>{18,8}</string>
+            </dict>
+            <key>skill_halfmoon:z lian.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{555,540},{25,26}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{25,26}}</string>
+                <key>sourceSize</key>
+                <string>{25,26}</string>
+            </dict>
+            <key>skill_halfmoon:z shenti.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{115,599},{21,20}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,20}}</string>
+                <key>sourceSize</key>
+                <string>{21,20}</string>
+            </dict>
+            <key>skill_halfmoon:z shenti3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{695,585},{23,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{23,22}}</string>
+                <key>sourceSize</key>
+                <string>{23,22}</string>
+            </dict>
+            <key>skill_halfmoon:z shou 6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{555,632},{23,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{23,12}}</string>
+                <key>sourceSize</key>
+                <string>{23,12}</string>
+            </dict>
+            <key>skill_halfmoon:z shou7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{695,624},{24,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{24,12}}</string>
+                <key>sourceSize</key>
+                <string>{24,12}</string>
+            </dict>
+            <key>skill_halfmoon:z shoubi 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{126,449},{12,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,16}}</string>
+                <key>sourceSize</key>
+                <string>{12,16}</string>
+            </dict>
+            <key>skill_halfmoon:z toufa.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{335,617},{40,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{40,44}}</string>
+                <key>sourceSize</key>
+                <string>{40,44}</string>
+            </dict>
+            <key>skill_halfmoon:z weijing 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{987,604},{33,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{33,19}}</string>
+                <key>sourceSize</key>
+                <string>{33,19}</string>
+            </dict>
+            <key>skill_halfmoon:z youhujian.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{361,568},{15,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,10}}</string>
+                <key>sourceSize</key>
+                <string>{15,10}</string>
+            </dict>
+            <key>skill_halfmoon:z youjiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,437},{16,20}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,20}}</string>
+                <key>sourceSize</key>
+                <string>{16,20}</string>
+            </dict>
+            <key>skill_halfmoon:z youshou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,553},{14,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,12}}</string>
+                <key>sourceSize</key>
+                <string>{14,12}</string>
+            </dict>
+            <key>skill_halfmoon:z youshoubi.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{845,568},{14,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,11}}</string>
+                <key>sourceSize</key>
+                <string>{14,11}</string>
+            </dict>
+            <key>skill_halfmoon:z youtui.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{335,591},{21,23}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,23}}</string>
+                <key>sourceSize</key>
+                <string>{21,23}</string>
+            </dict>
+            <key>skill_halfmoon:z zuohujian.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,546},{14,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,13}}</string>
+                <key>sourceSize</key>
+                <string>{14,13}</string>
+            </dict>
+            <key>skill_halfmoon:z zuojiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,537},{15,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,13}}</string>
+                <key>sourceSize</key>
+                <string>{15,13}</string>
+            </dict>
+            <key>skill_halfmoon:z zuoshou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{695,639},{21,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,13}}</string>
+                <key>sourceSize</key>
+                <string>{21,13}</string>
+            </dict>
+            <key>skill_halfmoon:z zuoshoubi.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{361,581},{13,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,11}}</string>
+                <key>sourceSize</key>
+                <string>{13,11}</string>
+            </dict>
+            <key>skill_halfmoon:z zuotui.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{862,518},{19,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,13}}</string>
+                <key>sourceSize</key>
+                <string>{19,13}</string>
+            </dict>
+            <key>skill_halfmoon:zuobi2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{126,484},{12,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,8}}</string>
+                <key>sourceSize</key>
+                <string>{12,8}</string>
+            </dict>
+            <key>skill_halfmoon:zuoshou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{987,626},{34,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{34,16}}</string>
+                <key>sourceSize</key>
+                <string>{34,16}</string>
+            </dict>
+            <key>skill_halfmoon:zuoshou 2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{126,495},{11,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,8}}</string>
+                <key>sourceSize</key>
+                <string>{11,8}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>realTextureFileName</key>
+            <string>skill_halfmoon.pvr.ccz</string>
+            <key>size</key>
+            <string>{1023,1019}</string>
+            <key>textureFileName</key>
+            <string>skill_halfmoon.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

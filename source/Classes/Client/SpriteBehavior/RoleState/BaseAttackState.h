@@ -1,0 +1,527 @@
+// TAOMEE GAME TECHNOLOGIES PROPRIETARY INFORMATION
+//
+// This software is supplied under the terms of a license agreement or
+// nondisclosure agreement with Taomee Game Technologies and may not 
+// be copied or disclosed except in accordance with the terms of that 
+// agreement.
+//
+//      Copyright (c) 2012-2015 Taomee Game Technologies. 
+//      All Rights Reserved.
+//
+// Taomee Game Technologies, Shanghai, China
+// http://www.taomee.com
+//
+#pragma once
+#include <stack>
+#include "../../StateMachine/FAbstractTransition.h"
+#include "AttackChecker.h"
+#include "SkillInfo.h"
+
+class SpriteHeroBase;
+class BoneParticle;
+
+namespace AttackChecker
+{
+	class CBase;
+};
+class BaseAttackEvt;
+class BaseElfAttachData;
+
+// ---------------------------------------------------------------------------------------------
+class StateContainer
+{
+public:
+	virtual ~StateContainer(void);
+
+	virtual void Push(FState* pState);
+	virtual void Remove(FState* pState);
+
+	virtual FState* GetState(EventType type);
+
+protected:
+	std::list<FState*> m_states;
+
+};
+
+class StatePoller : public StateContainer
+{
+public:
+	virtual ~StatePoller(void);
+	virtual void Push(FState* pState);
+	virtual void Remove(FState* pState);
+	virtual void Remove(EventType type);
+	virtual void Update(float dt);
+
+	virtual void Exit(void);
+protected:
+	
+};
+
+class SkillStateMachine : public StatePoller
+{
+public:
+	virtual ~SkillStateMachine(void){}
+
+	virtual void Push(FState* pState);
+
+	bool CheckStateRuning(FState* state)
+	{
+		bool bRet = false;
+		if (state)
+		{
+			bRet = state->m_StateFlag != STOP;
+		}
+		return bRet;
+	}
+
+	bool CheckStateRuning(EventType type)
+	{
+		bool bRet = false;
+		for(std::list<FState*>::iterator iter = m_states.begin(); iter != m_states.end(); iter++)
+		{
+			FState* state = (*iter);
+			if (state)
+			{
+				if((*iter)->m_Type == type)
+				{
+					bRet = state->m_StateFlag == UPDATING;
+					if(bRet)
+						break;
+
+				}
+			}
+			
+		}
+
+		
+		return bRet;
+	}
+
+};
+
+class StateFactory
+{
+public:
+	StateFactory(SpriteHeroBase* pRole);
+
+	FState* Create(EventType type, unsigned int skillID);
+	FState* Create(BaseAttackEvt* pEvt);
+
+protected:
+	SpriteHeroBase* m_pRole;
+};
+
+//class ElfStateFactory
+//{
+//public:
+//	ElfStateFactory(SpriteElf* pRole);
+//
+//	FState* Create(EventType type, SpriteHeroBase* pHero,unsigned int skillID,BaseElfAttachData* pData = 0);
+//	FState* Create(BaseAttackEvt* pEvt);
+//
+//protected:
+//	SpriteElf* m_pRole;
+//};
+// ---------------------------------------------------------------------------------------------
+
+
+class BaseAttackEvt : public FEvent
+{
+	friend class BaseAttackState;
+public :
+
+	BaseAttackEvt(SpriteHeroBase* pRole, unsigned int skillID)
+		: m_pRole(pRole)
+		, m_skillId(skillID)
+	{
+
+	}
+
+	SpriteHeroBase* m_pRole;
+	unsigned int m_skillId;
+};
+
+//class BaseElfAttachData
+//{
+//public:
+//	bool bStartWithAcc;
+//
+//	BaseElfAttachData()
+//	{
+//		bStartWithAcc = false;
+//	}
+//};
+//
+//class BaseElfEvt : public FEvent
+//{
+//public :
+//	BaseElfEvt(SpriteElf* pElf, SpriteHeroBase* pSeer,unsigned int skillID,BaseElfAttachData* pAttachData = 0)
+//	{
+//		m_pElf = pElf;
+//		m_pSeer = pSeer;
+//		m_skillId = skillID;
+//		m_pAttachData = pAttachData;
+//	}
+//	SpriteHeroBase* m_pSeer;
+//	SpriteElf* m_pElf;
+//	unsigned int m_skillId;
+//	BaseElfAttachData* m_pAttachData;
+//};
+//
+class BaseAttackState : public FState
+{
+public:
+	BaseAttackState(BaseAttackEvt* pEvt);
+
+	virtual ~BaseAttackState(void);
+
+	virtual void Reset();
+
+	virtual bool Entered();
+
+	virtual void Update(float dt);
+
+	virtual void Exited();
+
+	SpriteHeroBase* GetRole(void){
+		return m_pRole;
+	}
+
+	void SetStateMachine(SkillStateMachine* pStateMachine){
+		m_pSkillStateMachine = pStateMachine;
+	}
+	SkillStateMachine* GetStateMachine(void){
+		return m_pSkillStateMachine;
+	}
+
+	void SetContainer(StateContainer* pContainer);
+	void SetEventType(EventType type){m_Type = type;}
+
+	void ChangeState(EventType type);
+
+protected:
+	SpriteHeroBase *m_pRole;
+	const SKILL_INFO* m_pSkill;
+	unsigned int m_skillID;
+	BaseAttackEvt* m_pEvt;
+	StateContainer* m_pContainer;
+	SkillStateMachine* m_pSkillStateMachine;
+	StateFactory* m_pStateFactory;	
+};
+
+
+//// ---------------------------------------------------------------------------
+class AnimHandler : public CCObject, public BaseAttackState
+{
+public:
+	AnimHandler(BaseAttackEvt* pEvt );
+
+	virtual bool Entered();
+
+	virtual void Update(float dt);
+
+	virtual void Exited();
+
+	void EndMove(CCNode*, void*);
+
+	CCPoint GetAttackDir(void){return m_aimDir;}
+	float GetEffectDisplacement(void){return m_effectDisplacement;}
+
+protected:
+	void SetNormalAttackDir();
+
+	virtual void ChangeToLinkTime(void);
+
+	virtual void UpdateDirectionByJoystick(float dt);
+
+protected:
+
+	int m_animationID;
+
+	bool m_bStartLinkTime;
+	bool m_bMoving;
+
+	float m_displacement;
+	float m_effectDisplacement;
+
+	float m_fContinueTime;
+	float m_fSoundTime;
+
+	//BoneSpriteMoveable::MOVE_TO_RESULT m_moveToResult;
+
+	cocos2d::CCPoint m_nearestMonsterPos;
+	cocos2d::CCPoint m_aimDir;
+
+	bool m_bAnimMonster;
+
+	BaseAttackState* m_pMoveToHandler;
+};
+
+
+//// ---------------------------------------------------------------------------
+class MagicAnimHandler : public AnimHandler
+{
+public:
+	MagicAnimHandler(BaseAttackEvt* pEvt );
+
+	virtual bool Entered();
+
+protected:
+
+};
+
+//// -----------------------------------------------------------
+//
+//class LinkTimeHandler : public BaseAttackState
+//{
+//public:
+//	LinkTimeHandler(BaseAttackEvt* pEvt );
+//
+//	virtual bool Entered();
+//
+//	virtual void Update(float dt);
+//
+//	virtual void Exited();
+//
+//protected:
+//	float m_fSkillLinkTime;
+//};
+//
+//// -----------------------------------------------------------
+
+class AttackCheckerHandler : public BaseAttackState
+{
+public:
+	AttackCheckerHandler(BaseAttackEvt* pEvt );
+
+	virtual bool Entered();
+
+	virtual void Update(float dt);
+
+	virtual void Exited();
+
+	// 必须在状态机的push函数之后调用
+	void SetAttackAction(AttackChecker::CBase::ACTION action);
+
+protected:
+	AttackChecker::CBase* m_pAttackChecker;
+};
+
+// ------------------------------------------------------
+
+
+class MagicCheckerHandler : public AttackCheckerHandler
+{
+public:
+	MagicCheckerHandler(BaseAttackEvt* pEvt );
+	virtual bool Entered();
+	void SetEffect(BoneParticle* pEffect)
+	{
+		m_pEffect = pEffect;
+	}
+protected:
+
+	BoneParticle* m_pEffect;
+};
+
+//// -------------------------------------------------------
+//
+//class AttackSenderHandler : public BaseAttackState
+//{
+//public:
+//	AttackSenderHandler(BaseAttackEvt* pEvt );
+//
+//	virtual bool Entered();
+//
+//	virtual void Update(float dt);
+//
+//	virtual void Exited();
+//
+//protected:
+//	CSPlayerAttackReq m_attackReq;
+//};
+//
+//// -----------------------------------------------------------
+
+class EffectAnimHandler : public BaseAttackState
+{
+public:
+	EffectAnimHandler(BaseAttackEvt* pEvt );
+
+	virtual bool Entered();
+
+	virtual void Update(float dt);
+
+	virtual void Exited();
+
+	void SetInitDirection(CCPoint dir);
+	void SetAttackDir( CCPoint dir, float displacement );
+
+	void SetLinkEffectPos(const CCPoint& pos){m_linkEffectPos = pos; m_bLinkEffect = true;}
+
+	BoneParticle* GetEffect(void){return m_pEffect;}
+
+protected:
+
+	cocos2d::CCPoint GetAnimDirVector(void);
+	//DIRECTION_ACTOR GetAnimDir(void);
+
+	BoneParticle* GetEffect(int id);
+
+protected:
+
+	BoneParticle* m_pEffect;
+	CCPoint m_dir;
+	float m_displacement;
+	float m_speed;
+
+	CCPoint m_initDir;
+	bool m_bInitDir;
+
+	cocos2d::CCPoint m_attackDir;
+	float m_attackDisplacement;
+
+	bool m_bLinkEffect;
+	cocos2d::CCPoint m_linkEffectPos;
+};
+
+//// -----------------------------------------------------------
+//class RoleEffectHandler : public BaseAttackState
+//{
+//public:
+//	RoleEffectHandler(BaseAttackEvt* pEvt );
+//
+//	virtual bool Entered();
+//
+//	virtual void Update(float dt);
+//
+//	virtual void Exited();
+//	
+//protected:
+//	BoneParticle* m_pEffect;
+//	
+//};
+//
+//// -----------------------------------------------------------
+//class AimDirectionHandler : public BaseAttackState
+//{
+//public:
+//	AimDirectionHandler(BaseAttackEvt* pEvt );
+//
+//	AimDirectionHandler(const AimDirectionHandler& rhs);
+//
+//	virtual bool Entered();
+//
+//	/*virtual void Update(float dt);
+//
+//	virtual void Exited();*/
+//
+//	CCPoint GetDirection(void);
+//	CCPoint GetNearestMonsterPos(void);
+//	bool IsAimMonster(void);
+//
+//protected:
+//	cocos2d::CCPoint GetAimDirection();
+//
+//	SpriteMonster* GetNearestMonster(void);
+//
+//protected:
+//
+//	cocos2d::CCPoint m_nearestMonsterPos;
+//	cocos2d::CCPoint m_aimDir;
+//	bool m_bAimMonster;
+//
+//	bool m_bEntered;
+//
+//};
+//
+//// -----------------------------------------------------------
+//class SkillBeginSenderHandler : public BaseAttackState
+//{
+//public:
+//	SkillBeginSenderHandler(BaseAttackEvt* pEvt );
+//
+//	virtual bool Entered();
+//
+//	/*virtual void Update(float dt);
+//
+//	virtual void Exited();*/
+//
+//protected:
+//	
+//};
+//
+//// -----------------------------------------------------------
+//class SkillBeginReceiverHandler : public BaseAttackState
+//{
+//public:
+//	SkillBeginReceiverHandler(BaseAttackEvt* pEvt );
+//
+//	//virtual bool Entered();
+//
+//	/*virtual void Update(float dt);
+//
+//	virtual void Exited();*/
+//
+//	CCPoint GetDirection(void){return m_aimDir;}
+//	CCPoint GetNearestMonsterPos(void){return m_nearestMonsterPos;}
+//	CCPoint GetRolePos(void){return m_rolePos;}
+//	CCPoint GetRoleDirection(void){return m_roleDir;}
+//
+//	bool IsAimMonster(void){return m_bAimMonster;}
+//
+//	void SetAimMonster(bool b){m_bAimMonster = b;}
+//	void SetNearestMonsterPos(const CCPoint& pos){m_nearestMonsterPos = pos;}
+//	void SetDirection(const CCPoint& dir){m_aimDir = dir;}
+//	void SetRolePos(const CCPoint& pos){m_rolePos = pos;}
+//	void SetRoleDirection(const CCPoint& dir){m_roleDir = dir;}
+//
+//protected:
+//	cocos2d::CCPoint m_rolePos;
+//	cocos2d::CCPoint m_roleDir;
+//	
+//	cocos2d::CCPoint m_nearestMonsterPos;
+//	cocos2d::CCPoint m_aimDir;
+//	bool m_bAimMonster;
+//	
+//};
+//
+// -----------------------------------------------------------
+class MoveToHandler : public BaseAttackState
+{
+public:
+	MoveToHandler(BaseAttackEvt* pEvt );
+
+	virtual bool Entered();
+
+	virtual void Update(float dt);
+
+	virtual void Exited();
+	virtual void Reset();
+
+	void SetTarget(cocos2d::CCNode* pTarget, cocos2d::CCPoint& dstPos, float speed);
+
+	bool IsFinish(void){return m_displacement <= 0.0f;}
+
+protected:
+
+	float m_displacement;
+	CCPoint m_dir;
+	float m_speed;
+	cocos2d::CCNode* m_pTarget;
+
+	
+};
+
+//
+//// -----------------------------------------------------------
+//class VariableSpeedMoveToHandler : public MoveToHandler
+//{
+//public:
+//	VariableSpeedMoveToHandler(BaseAttackEvt* pEvt );
+//
+//	virtual void Update(float dt);
+//
+//	void ChangeDstPos(const cocos2d::CCPoint& dstPos);
+//
+//};

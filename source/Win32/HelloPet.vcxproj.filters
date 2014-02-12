@@ -1,0 +1,1151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{fc5cb953-2953-4968-83b3-39e3ff951754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="win32">
+      <UniqueIdentifier>{037a9a02-b906-4cc5-ad98-304acd4e25ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client">
+      <UniqueIdentifier>{a747c81f-8291-4a6e-99d6-7be981217d4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\BoneAniManager">
+      <UniqueIdentifier>{e34bd503-d851-4461-a15f-c0a46e6fdc3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine">
+      <UniqueIdentifier>{b9287054-d316-4fae-9621-f05003d51e2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\XmlParser">
+      <UniqueIdentifier>{650f5997-e6e0-47b0-9e8b-01a8120cb120}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\XmlParser\TinyXml">
+      <UniqueIdentifier>{346a70e0-a540-475e-bf37-d8ef30c4274b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Flash2Cocos2d-X">
+      <UniqueIdentifier>{475a90c8-4249-447b-96b2-c323afc01829}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Sprite">
+      <UniqueIdentifier>{7b44fa0a-bc77-4e61-b1b5-33e904b0a29c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs">
+      <UniqueIdentifier>{3f17e722-5816-474d-9212-489c4bae4092}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\PageManager">
+      <UniqueIdentifier>{44263fb0-127d-4382-9e27-3c49706b861b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\PageManager\Resource">
+      <UniqueIdentifier>{5cc1dcae-8483-46f7-9903-d0dc05a1c69f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\CrossPlatform">
+      <UniqueIdentifier>{aa2e1ad7-2244-48bc-b577-f64ae7d16d6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\CrossPlatform\Win32Platform">
+      <UniqueIdentifier>{eced02cd-17db-4daf-bf90-de0caa6d910e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\CrossPlatform\Win32Platform\IAP">
+      <UniqueIdentifier>{ad2451a4-3010-4b00-b9c4-d12bf3feaeda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Layers">
+      <UniqueIdentifier>{508d32a5-171b-4d1c-af1d-6eb5899cd7b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Layers\UI">
+      <UniqueIdentifier>{e23d9f0f-d65b-432e-bc64-bd3343a761de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Layers\Game">
+      <UniqueIdentifier>{1ffa876e-d65a-4545-93f8-ec8f34e9fb50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Illusion_Particle">
+      <UniqueIdentifier>{c0414825-0dd8-41f8-a324-f55eb15d7af2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\GraphicShape">
+      <UniqueIdentifier>{e3e41eb1-416f-4edd-b226-147694bf39bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\GraphicShape\RenderShape">
+      <UniqueIdentifier>{75743cfd-5640-4c9b-9982-1a06fe981047}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\GraphicShape\MathShape">
+      <UniqueIdentifier>{264c24ca-57eb-4e62-9614-16c37c978df2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Math">
+      <UniqueIdentifier>{e4387907-e11d-4a2e-a14a-189d1a1f2c6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Network">
+      <UniqueIdentifier>{ff32ae02-a048-4c0b-9d09-3b4c1905f6f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Network\proto">
+      <UniqueIdentifier>{5afb1782-6f7d-4fdc-9151-b8d7cbfe3e25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\GameManager">
+      <UniqueIdentifier>{42ba6bf3-c487-4b9e-86d9-3320b544ef22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Map">
+      <UniqueIdentifier>{82efdaa0-dab4-4f1f-b5ba-6b63b3fbda2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\SpriteBehavior">
+      <UniqueIdentifier>{d28620fb-a17e-48aa-b731-c108a0ec6e6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\SpriteBehavior\HeroBehavior">
+      <UniqueIdentifier>{f2c8557f-14ce-4f8b-985e-ab699cbe6a27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\SpriteBehavior\RoleState">
+      <UniqueIdentifier>{a78a8ced-cf70-4a9c-935d-828b12df1d49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\StateMachine">
+      <UniqueIdentifier>{ea596ce5-c8fd-4f8c-97bd-62de18956ed9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Particle">
+      <UniqueIdentifier>{244c7630-37d1-4c83-8319-d1aa17df58a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Particle\BoneAniParticle">
+      <UniqueIdentifier>{b73462bc-b858-4301-8d88-27bcb31ef55f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Props">
+      <UniqueIdentifier>{cbbf7d5b-bcf1-4a73-9c05-953baf7bc254}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Sound">
+      <UniqueIdentifier>{7885c5da-b1af-4826-a8c5-ff488617a907}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Timer">
+      <UniqueIdentifier>{7e5df1a2-fdd9-4528-8a80-4b5f91174e84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Client\Lua">
+      <UniqueIdentifier>{90eb1852-719a-4c13-9bbf-a64e5fbe6db5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\BoneAniManager\SkeletonAnimCommonDefine.h">
+      <Filter>Classes\Client\BoneAniManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\BoneAniManager\SkeletonAnimRcsManager.h">
+      <Filter>Classes\Client\BoneAniManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\XmlParser\TinyXml\tinystr.h">
+      <Filter>Classes\Engine\XmlParser\TinyXml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\XmlParser\TinyXml\tinyxml.h">
+      <Filter>Classes\Engine\XmlParser\TinyXml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\ArmatureSpritePool.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CAnimation.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CArmature.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CArmatureAniData.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CBaseNode.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CBone.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CBoneAniData.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CCFlash2Cocos2d-x.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CConnectionData.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CConstValue.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CEventFrame.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CFrameNode.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CFrameNodeList.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CMathHelper.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CProcessBase.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CTextureData.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CTween.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CTweenNode.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Flash2Cocos2d-X\CXLog.h">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\RoleActorBase.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\BoneAnimSprite.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteBase.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteCreatorFactory.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\PageManager\FileUtilsExpansion.h">
+      <Filter>libs\PageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\PageManager\GameResourceManager.h">
+      <Filter>libs\PageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\PageManager\Resource\ResourcePlistDictionary.h">
+      <Filter>libs\PageManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\PageManager\ResourceCache.h">
+      <Filter>libs\PageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\PageManager\Resource\ResourcePlistArray.h">
+      <Filter>libs\PageManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\CommonUtils.h">
+      <Filter>Classes\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Singleton_t.h">
+      <Filter>Classes\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\GameLayer.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Illusion_Particle\ParticleFactory.h">
+      <Filter>Classes\Engine\Illusion_Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Illusion_Particle\SpriteParticle.h">
+      <Filter>Classes\Engine\Illusion_Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Illusion_Particle\IParticleAnimationInterface.h">
+      <Filter>Classes\Engine\Illusion_Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Illusion_Particle\ParticleAnimation.h">
+      <Filter>Classes\Engine\Illusion_Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\RenderShape\RenderShapeBase.h">
+      <Filter>Classes\Client\GraphicShape\RenderShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\RenderShape\RenderLineShape.h">
+      <Filter>Classes\Client\GraphicShape\RenderShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\ShapeEnum.h">
+      <Filter>Classes\Client\GraphicShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\MathShape\MathShapeBase.h">
+      <Filter>Classes\Client\GraphicShape\MathShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\MathShape\MathShapeLine.h">
+      <Filter>Classes\Client\GraphicShape\MathShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\RenderShape\RenderATriangleShape.h">
+      <Filter>Classes\Client\GraphicShape\RenderShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\MathShape\MathATriangleShape.h">
+      <Filter>Classes\Client\GraphicShape\MathShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\ShapeCreaterFactory.h">
+      <Filter>Classes\Client\GraphicShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\SceneCreator.h">
+      <Filter>Classes\Client\GraphicShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\CameraController.h">
+      <Filter>Classes\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\MathShape\MathARectShape.h">
+      <Filter>Classes\Client\GraphicShape\MathShape</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\alphanum.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\CCSlider.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\ContactListener.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\Enemy.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\GameObject.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\GameOver.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\GamePauseLayer.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\GameRunScene.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\GameSceneHud.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\GLES-Render.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\globals.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\MainScene.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\MusicManager.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\Options.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\Player.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\Spinor.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\StashScene.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\BaseMsgHandler.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\byte_array_t.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\cs_basic.pb.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\head.pb.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\LuaNetwork.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\MessageCache.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\MessageHandler.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\MessageLog.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\NetStateChecker.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\NetWorkConfigure.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\NetWorkUtil.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\OnlineNetworkManager.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\proto_encry.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\IEvent.h">
+      <Filter>Classes\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\AES.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\CCInt.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\CrossPlatform.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\CrossUtil.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\CrossXOS.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\CSocketUtil.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\FileUtils.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\IExResourceMgr.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\ImageUtil.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\IPlatform.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\IPUIPlatform.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\md5.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\tea.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\Thread.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\util.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\XPlatformManager.h">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\Win32Platform\socket_win32.h">
+      <Filter>libs\CrossPlatform\Win32Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\Win32Platform\thread_win32.h">
+      <Filter>libs\CrossPlatform\Win32Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\Win32Platform\XPlatform.h">
+      <Filter>libs\CrossPlatform\Win32Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\Win32Platform\XUIPlatform.h">
+      <Filter>libs\CrossPlatform\Win32Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\CrossPlatform\Win32Platform\IAP\ProductManager.h">
+      <Filter>libs\CrossPlatform\Win32Platform\IAP</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\MessageUtil.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\MessageUtil.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GameManager\ILogicManager.h">
+      <Filter>Classes\Client\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GameManager\XLogicManager.h">
+      <Filter>Classes\Client\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\BattleLayer.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\LayerCommonEnum.h">
+      <Filter>Classes\Client\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\BattleUILayer.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Map\MapDataCenter.h">
+      <Filter>Classes\Client\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteBaseNode.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteHero.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\UserData.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GameManager\BattleManger.h">
+      <Filter>Classes\Client\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteOthHero.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\HeroBehavior\HeroRunState.h">
+      <Filter>Classes\Client\SpriteBehavior\HeroBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\BehaviorDefine.h">
+      <Filter>Classes\Client\SpriteBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\RoleState\BaseAttackState.h">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\RoleState\DieState.h">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\RoleState\IdleState.h">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\RoleState\RunState.h">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\StateMachine\FStateMachine.h">
+      <Filter>Classes\Client\StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\StateMachine\FAbstractTransition.h">
+      <Filter>Classes\Client\StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Particle\BoneAniParticle\BoneParticle.h">
+      <Filter>Classes\Client\Particle\BoneAniParticle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Particle\ParticleManager.h">
+      <Filter>Classes\Client\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Particle\ParticleDefine.h">
+      <Filter>Classes\Client\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\BoneAniManager\AnimABBoxDataCenter.h">
+      <Filter>Classes\Client\BoneAniManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\BoneAniManager\BoxDefine.h">
+      <Filter>Classes\Client\BoneAniManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GameManager\CommonLookUpUtils.h">
+      <Filter>Classes\Client\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Map\MapPhysicalLayer.h">
+      <Filter>Classes\Client\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\PropsTriggerSprite.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\PropsTriggerManager.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\PropsDefiner.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteDefiner.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\cs_battle.pb.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\cs_config.pb.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\cs_core.pb.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\db.pb.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\NetWork\errcode.pb.h">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\PropsDataCenter.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\PageManager\CCFileData.h">
+      <Filter>libs\PageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\MainMenuLayer.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppMacros.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\PropBase.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\LoginUILayer.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\PropManager.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\LocalExplosionProp.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\FlySingleBombProp.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Sound\GameAudioManager.h">
+      <Filter>Classes\Engine\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\AwayExplosionProp.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\RoundFlyBombProp.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Engine\Sound\SoundConfigDataCenter.h">
+      <Filter>Classes\Engine\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\WithHeroProtectProp.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\AutoFighterProp.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\HeroDeformProp.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Props\PropsTriggerBase.h">
+      <Filter>Classes\Client\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Timer\TimeSynchronizer.h">
+      <Filter>Classes\Client\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Timer\HeartbeatPackageSender.h">
+      <Filter>Classes\Client\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\UIManager.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\MessageBox.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\LayerAutoAdaptiveBase.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteArmyPool.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\BattleUIArmyHeadIconPanel.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\UIPanelEventDelegateInterface.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\BattleLayerMoveController.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\UI\BattleUISkillIconPanel.h">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\RoleState\SkillDispMgr.h">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\RoleState\SkillInfo.h">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\StateMachine\StateEventType.h">
+      <Filter>Classes\Client\StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Lua\LuaTinkerManager.h">
+      <Filter>Classes\Client\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Lua\lua_tinker.h">
+      <Filter>Classes\Client\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Lua\luaconf.h">
+      <Filter>Classes\Client\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\LoadingLayer.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Layers\Game\BattleLoadingLayer.h">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\RoleState\NormalAttackState.h">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteHeroBase.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\SpriteBehavior\RoleState\AttackChecker.h">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\Sprite\SpriteDecorationBatchNode.h">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Client\GraphicShape\Painter.h">
+      <Filter>Classes\Client\GraphicShape</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\BoneAniManager\SkeletonAnimRcsManager.cpp">
+      <Filter>Classes\Client\BoneAniManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\XmlParser\TinyXml\tinystr.cpp">
+      <Filter>Classes\Engine\XmlParser\TinyXml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\XmlParser\TinyXml\tinyxml.cpp">
+      <Filter>Classes\Engine\XmlParser\TinyXml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\XmlParser\TinyXml\tinyxmlerror.cpp">
+      <Filter>Classes\Engine\XmlParser\TinyXml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\XmlParser\TinyXml\tinyxmlparser.cpp">
+      <Filter>Classes\Engine\XmlParser\TinyXml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\ArmatureSpritePool.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CAnimation.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CArmature.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CArmatureAniData.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CBaseNode.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CBone.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CBoneAniData.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CConnectionData.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CEventFrame.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CFrameNode.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CFrameNodeList.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CMathHelper.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CProcessBase.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CTween.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CTweenNode.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Flash2Cocos2d-X\CXLog.cpp">
+      <Filter>Classes\Engine\Flash2Cocos2d-X</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\RoleActorBase.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\BoneAnimSprite.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\SpriteBase.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\SpriteCreatorFactory.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\PageManager\FileUtilsExpansion.cpp">
+      <Filter>libs\PageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\PageManager\GameResourceManager.cpp">
+      <Filter>libs\PageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\PageManager\Resource\ResourcePlistDictionary.cpp">
+      <Filter>libs\PageManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\PageManager\ResourceCache.cpp">
+      <Filter>libs\PageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\PageManager\Resource\ResourcePlistArray.cpp">
+      <Filter>libs\PageManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\CommonUtils.cpp">
+      <Filter>Classes\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\GameLayer.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Illusion_Particle\ParticleFactory.cpp">
+      <Filter>Classes\Engine\Illusion_Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Illusion_Particle\SpriteParticle.cpp">
+      <Filter>Classes\Engine\Illusion_Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Illusion_Particle\ParticleAnimation.cpp">
+      <Filter>Classes\Engine\Illusion_Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\RenderShape\RenderShapeBase.cpp">
+      <Filter>Classes\Client\GraphicShape\RenderShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\RenderShape\RenderLineShape.cpp">
+      <Filter>Classes\Client\GraphicShape\RenderShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\MathShape\MathShapeBase.cpp">
+      <Filter>Classes\Client\GraphicShape\MathShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\MathShape\MathShapeLine.cpp">
+      <Filter>Classes\Client\GraphicShape\MathShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\RenderShape\RenderATriangleShape.cpp">
+      <Filter>Classes\Client\GraphicShape\RenderShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\MathShape\MathATriangleShape.cpp">
+      <Filter>Classes\Client\GraphicShape\MathShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\ShapeCreaterFactory.cpp">
+      <Filter>Classes\Client\GraphicShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\SceneCreator.cpp">
+      <Filter>Classes\Client\GraphicShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\CameraController.cpp">
+      <Filter>Classes\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\MathShape\MathARectShape.cpp">
+      <Filter>Classes\Client\GraphicShape\MathShape</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\CCSlider.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\ContactListener.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\Enemy.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\GameObject.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\GameOver.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\GamePauseLayer.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\GameRunScene.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\GameSceneHud.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\GLES-Render.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\globals.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\MainScene.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\MusicManager.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\Options.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\Player.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\Spinor.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\StashScene.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\cs_basic.pb.cc">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\head.pb.cc">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\LuaNetwork.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\MessageCache.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\MessageHandler.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\MessageLog.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\NetStateChecker.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\NetWorkUtil.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\OnlineNetworkManager.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\BaseMsgHandler.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\AES.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\CrossXOS.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\CSocketUtil.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\FileUtils.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\ImageUtil.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\md5.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\tea.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\Thread.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\util.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\XPlatformManager.cpp">
+      <Filter>libs\CrossPlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\Win32Platform\XPlatform.cpp">
+      <Filter>libs\CrossPlatform\Win32Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\Win32Platform\XUIPlatform.cpp">
+      <Filter>libs\CrossPlatform\Win32Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\CrossPlatform\Win32Platform\IAP\ProductManager.cpp">
+      <Filter>libs\CrossPlatform\Win32Platform\IAP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\MessageUtil.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\MessageUtil.cpp">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GameManager\XLogicManager.cpp">
+      <Filter>Classes\Client\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\BattleLayer.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\UI\BattleUILayer.cpp">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Map\MapDataCenter.cpp">
+      <Filter>Classes\Client\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\SpriteBaseNode.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\SpriteHero.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GameManager\BattleManger.cpp">
+      <Filter>Classes\Client\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\SpriteOthHero.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\HeroBehavior\HeroRunState.cpp">
+      <Filter>Classes\Client\SpriteBehavior\HeroBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\BehaviorDefine.cpp">
+      <Filter>Classes\Client\SpriteBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\RoleState\BaseAttackState.cpp">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\RoleState\DieState.cpp">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\RoleState\IdleState.cpp">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\RoleState\RunState.cpp">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\StateMachine\FStateMachine.cpp">
+      <Filter>Classes\Client\StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Particle\BoneAniParticle\BoneParticle.cpp">
+      <Filter>Classes\Client\Particle\BoneAniParticle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Particle\ParticleManager.cpp">
+      <Filter>Classes\Client\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\BoneAniManager\AnimABBoxDataCenter.cpp">
+      <Filter>Classes\Client\BoneAniManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GameManager\CommonLookUpUtils.cpp">
+      <Filter>Classes\Client\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Map\MapPhysicalLayer.cpp">
+      <Filter>Classes\Client\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\PropsTriggerSprite.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\PropsTriggerManager.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\cs_battle.pb.cc">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\cs_config.pb.cc">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\cs_core.pb.cc">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\db.pb.cc">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\NetWork\errcode.pb.cc">
+      <Filter>Classes\Engine\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\PropsDataCenter.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\libs\PageManager\CCFileData.cpp">
+      <Filter>libs\PageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\UI\MainMenuLayer.cpp">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\PropBase.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\UI\LoginUILayer.cpp">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\PropManager.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\LocalExplosionProp.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\FlySingleBombProp.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\UserData.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Sound\GameAudioManager.cpp">
+      <Filter>Classes\Engine\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\AwayExplosionProp.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\RoundFlyBombProp.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Engine\Sound\SoundConfigDataCenter.cpp">
+      <Filter>Classes\Engine\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\WithHeroProtectProp.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\AutoFighterProp.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\HeroDeformProp.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Props\PropsTriggerBase.cpp">
+      <Filter>Classes\Client\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Timer\TimeSynchronizer.cpp">
+      <Filter>Classes\Client\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Timer\HeartbeatPackageSender.cpp">
+      <Filter>Classes\Client\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\UI\UIManager.cpp">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\UI\MessageBox.cpp">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\UI\LayerAutoAdaptiveBase.cpp">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\SpriteArmyPool.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\UI\BattleUIArmyHeadIconPanel.cpp">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\BattleLayerMoveController.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\UI\BattleUISkillIconPanel.cpp">
+      <Filter>Classes\Client\Layers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\RoleState\SkillDispMgr.cpp">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Lua\LuaTinkerManager.cpp">
+      <Filter>Classes\Client\Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Lua\lua_tinker.cpp">
+      <Filter>Classes\Client\Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\LoadingLayer.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Layers\Game\BattleLoadingLayer.cpp">
+      <Filter>Classes\Client\Layers\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\RoleState\NormalAttackState.cpp">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\SpriteHeroBase.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\SpriteBehavior\RoleState\AttackChecker.cpp">
+      <Filter>Classes\Client\SpriteBehavior\RoleState</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\Sprite\SpriteDecorationBatchNode.cpp">
+      <Filter>Classes\Client\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Client\GraphicShape\Painter.cpp">
+      <Filter>Classes\Client\GraphicShape</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Classes\Engine\NetWork\proto\cs_basic.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\head.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\cs_battle.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\cs_config.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\cs_core.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\db.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\errcode.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\iplatform.pay.game.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\nick.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\opdb.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+    <None Include="..\Classes\Engine\NetWork\proto\switch.proto">
+      <Filter>Classes\Engine\Network\proto</Filter>
+    </None>
+  </ItemGroup>
+</Project>

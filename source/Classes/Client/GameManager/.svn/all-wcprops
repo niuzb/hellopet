@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/1101077902/!svn/ver/457/hellopet/1/source/Classes/Client/GameManager
+END
+XLogicManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/1101077902/!svn/ver/418/hellopet/1/source/Classes/Client/GameManager/XLogicManager.cpp
+END
+CommonLookUpUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/1101077902/!svn/ver/359/hellopet/1/source/Classes/Client/GameManager/CommonLookUpUtils.cpp
+END
+NotificationCenterDefiner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/1101077902/!svn/ver/438/hellopet/1/source/Classes/Client/GameManager/NotificationCenterDefiner.cpp
+END
+XLogicManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/257/hellopet/1/source/Classes/Client/GameManager/XLogicManager.h
+END
+BattleManger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/1101077902/!svn/ver/457/hellopet/1/source/Classes/Client/GameManager/BattleManger.cpp
+END
+ILogicManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/46/hellopet/1/source/Classes/Client/GameManager/ILogicManager.h
+END
+CommonLookUpUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/1101077902/!svn/ver/359/hellopet/1/source/Classes/Client/GameManager/CommonLookUpUtils.h
+END
+NotificationCenterDefiner.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/1101077902/!svn/ver/438/hellopet/1/source/Classes/Client/GameManager/NotificationCenterDefiner.h
+END
+BattleManger.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/437/hellopet/1/source/Classes/Client/GameManager/BattleManger.h
+END

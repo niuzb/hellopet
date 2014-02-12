@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/1101077902/!svn/ver/33/hellopet/1/source/Classes/Engine/Illusion_Particle
+END
+SpriteParticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/1101077902/!svn/ver/33/hellopet/1/source/Classes/Engine/Illusion_Particle/SpriteParticle.h
+END
+ParticleFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/1101077902/!svn/ver/33/hellopet/1/source/Classes/Engine/Illusion_Particle/ParticleFactory.h
+END
+IParticleAnimationInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/1101077902/!svn/ver/33/hellopet/1/source/Classes/Engine/Illusion_Particle/IParticleAnimationInterface.h
+END
+ParticleAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/1101077902/!svn/ver/33/hellopet/1/source/Classes/Engine/Illusion_Particle/ParticleAnimation.cpp
+END
+ParticleAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/1101077902/!svn/ver/33/hellopet/1/source/Classes/Engine/Illusion_Particle/ParticleAnimation.h
+END
+SpriteParticle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/1101077902/!svn/ver/33/hellopet/1/source/Classes/Engine/Illusion_Particle/SpriteParticle.cpp
+END
+ParticleFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/1101077902/!svn/ver/33/hellopet/1/source/Classes/Engine/Illusion_Particle/ParticleFactory.cpp
+END

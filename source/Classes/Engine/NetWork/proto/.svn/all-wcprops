@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/1101077902/!svn/ver/394/hellopet/1/source/Classes/Engine/NetWork/proto
+END
+cs_core.proto
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/112/hellopet/1/source/Classes/Engine/NetWork/proto/cs_core.proto
+END
+iplatform.pay.game.proto
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/1101077902/!svn/ver/112/hellopet/1/source/Classes/Engine/NetWork/proto/iplatform.pay.game.proto
+END
+cs_battle.proto
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/1101077902/!svn/ver/394/hellopet/1/source/Classes/Engine/NetWork/proto/cs_battle.proto
+END
+head.proto
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/324/hellopet/1/source/Classes/Engine/NetWork/proto/head.proto
+END
+switch.proto
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/112/hellopet/1/source/Classes/Engine/NetWork/proto/switch.proto
+END
+errcode.proto
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/112/hellopet/1/source/Classes/Engine/NetWork/proto/errcode.proto
+END
+nick.proto
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/112/hellopet/1/source/Classes/Engine/NetWork/proto/nick.proto
+END
+opdb.proto
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/112/hellopet/1/source/Classes/Engine/NetWork/proto/opdb.proto
+END
+db.proto
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/1101077902/!svn/ver/112/hellopet/1/source/Classes/Engine/NetWork/proto/db.proto
+END
+cs_basic.proto
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/1101077902/!svn/ver/279/hellopet/1/source/Classes/Engine/NetWork/proto/cs_basic.proto
+END
+cs_config.proto
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/1101077902/!svn/ver/112/hellopet/1/source/Classes/Engine/NetWork/proto/cs_config.proto
+END

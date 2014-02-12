@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/1101077902/!svn/ver/454/hellopet/1/source/Classes/Client/Layers/Game
+END
+BattleLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1101077902/!svn/ver/448/hellopet/1/source/Classes/Client/Layers/Game/BattleLayer.cpp
+END
+BattleLayerMoveController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/1101077902/!svn/ver/325/hellopet/1/source/Classes/Client/Layers/Game/BattleLayerMoveController.h
+END
+LoadingLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/1101077902/!svn/ver/368/hellopet/1/source/Classes/Client/Layers/Game/LoadingLayer.cpp
+END
+BattleLoadingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/1101077902/!svn/ver/436/hellopet/1/source/Classes/Client/Layers/Game/BattleLoadingLayer.h
+END
+LocalBattleLoadingLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/1101077902/!svn/ver/454/hellopet/1/source/Classes/Client/Layers/Game/LocalBattleLoadingLayer.cpp
+END
+BattleLayerMoveController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/1101077902/!svn/ver/325/hellopet/1/source/Classes/Client/Layers/Game/BattleLayerMoveController.cpp
+END
+BattleLoadingLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/1101077902/!svn/ver/454/hellopet/1/source/Classes/Client/Layers/Game/BattleLoadingLayer.cpp
+END
+BattleLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/1101077902/!svn/ver/438/hellopet/1/source/Classes/Client/Layers/Game/BattleLayer.h
+END
+LayerCommonEnum.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/1101077902/!svn/ver/406/hellopet/1/source/Classes/Client/Layers/Game/LayerCommonEnum.h
+END
+LoadingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/343/hellopet/1/source/Classes/Client/Layers/Game/LoadingLayer.h
+END
+LocalBattleLoadingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/1101077902/!svn/ver/419/hellopet/1/source/Classes/Client/Layers/Game/LocalBattleLoadingLayer.h
+END

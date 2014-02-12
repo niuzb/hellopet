@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Particle>
+	<TotalFrames value="59" />
+	<Frames>
+		<OneFrame fileName="earth0001" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0002" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0003" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0004" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0005" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0006" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0007" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0008" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0009" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0010" offsetX="0" offsetY="0"/>
+		
+		<OneFrame fileName="earth0011" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0012" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0013" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0014" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0015" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0016" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0017" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0018" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0019" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0020" offsetX="0" offsetY="0"/>
+		
+		<OneFrame fileName="earth0021" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0022" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0023" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0024" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0025" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0026" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0027" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0028" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0029" offsetX="0" offsetY="0"/>
+		
+		<OneFrame fileName="earth0030" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0031" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0032" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0033" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0034" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0035" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0036" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0037" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0038" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0039" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0040" offsetX="0" offsetY="0"/>
+		
+		<OneFrame fileName="earth0041" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0042" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0043" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0044" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0045" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0046" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0047" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0048" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0049" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0050" offsetX="0" offsetY="0"/>
+		
+		<OneFrame fileName="earth0051" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0052" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0053" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0054" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0055" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0056" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0057" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0058" offsetX="0" offsetY="0"/>
+		<OneFrame fileName="earth0059" offsetX="0" offsetY="0"/>
+		
+	</Frames>
+</Particle>

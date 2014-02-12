@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/1101077902/!svn/ver/416/hellopet/1/source/Classes/Engine/Sound
+END
+SoundConfigDataCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/1101077902/!svn/ver/266/hellopet/1/source/Classes/Engine/Sound/SoundConfigDataCenter.h
+END
+GameAudioManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/416/hellopet/1/source/Classes/Engine/Sound/GameAudioManager.cpp
+END
+SoundConfigDataCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/1101077902/!svn/ver/267/hellopet/1/source/Classes/Engine/Sound/SoundConfigDataCenter.cpp
+END
+GameAudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/416/hellopet/1/source/Classes/Engine/Sound/GameAudioManager.h
+END

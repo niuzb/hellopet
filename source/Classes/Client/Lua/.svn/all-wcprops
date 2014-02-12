@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/1101077902/!svn/ver/374/hellopet/1/source/Classes/Client/Lua
+END
+LuaTinkerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/1101077902/!svn/ver/324/hellopet/1/source/Classes/Client/Lua/LuaTinkerManager.h
+END
+lua_tinker.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/1101077902/!svn/ver/324/hellopet/1/source/Classes/Client/Lua/lua_tinker.h
+END
+LuaTinkerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/1101077902/!svn/ver/374/hellopet/1/source/Classes/Client/Lua/LuaTinkerManager.cpp
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/1101077902/!svn/ver/324/hellopet/1/source/Classes/Client/Lua/luaconf.h
+END
+lua_tinker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/1101077902/!svn/ver/374/hellopet/1/source/Classes/Client/Lua/lua_tinker.cpp
+END

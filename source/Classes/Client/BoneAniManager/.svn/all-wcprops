@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/1101077902/!svn/ver/431/hellopet/1/source/Classes/Client/BoneAniManager
+END
+AnimABBoxDataCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/1101077902/!svn/ver/431/hellopet/1/source/Classes/Client/BoneAniManager/AnimABBoxDataCenter.h
+END
+SkeletonAnimRcsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/1101077902/!svn/ver/342/hellopet/1/source/Classes/Client/BoneAniManager/SkeletonAnimRcsManager.h
+END
+SkeletonAnimCommonDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/1101077902/!svn/ver/120/hellopet/1/source/Classes/Client/BoneAniManager/SkeletonAnimCommonDefine.h
+END
+BoxDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/1101077902/!svn/ver/322/hellopet/1/source/Classes/Client/BoneAniManager/BoxDefine.h
+END
+AnimABBoxDataCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/1101077902/!svn/ver/431/hellopet/1/source/Classes/Client/BoneAniManager/AnimABBoxDataCenter.cpp
+END
+SkeletonAnimRcsManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/1101077902/!svn/ver/342/hellopet/1/source/Classes/Client/BoneAniManager/SkeletonAnimRcsManager.cpp
+END

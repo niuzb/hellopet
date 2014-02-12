@@ -1,0 +1,113 @@
+#include "GameAudioManager.h"
+#include "GameResourceManager.h"
+#include "SimpleAudioEngine.h"
+
+using namespace CocosDenshion;
+
+GameAudioManager::GameAudioManager():
+	backGroundVolume(1.0),
+	effectVolume(1.0)
+{
+}
+
+GameAudioManager::~GameAudioManager()
+{
+}
+
+std::string GameAudioManager::getBgMusicPath(unsigned int id,const char* fileSuffix /* = ".mp3" */)
+{
+	char buffer[200];
+	sprintf(buffer,"Sound/bg_%d%s",id,fileSuffix);
+	std::string filePath = GameResourceManager::sharedManager()->storedFullPathFromRelativePath(buffer);
+	return filePath;
+}
+
+std::string GameAudioManager::getEffectMusicPath(unsigned int id,const char* fileSuffix /* = ".mp3" */)
+{
+	char buffer[200];
+	sprintf(buffer,"Sound/ef_%d%s",id,fileSuffix);
+	std::string filePath = GameResourceManager::sharedManager()->storedFullPathFromRelativePath(buffer);
+	return filePath;
+}
+
+bool GameAudioManager::PlayOneBgMusic(unsigned int id,const char* fileSuffix /* = ".mp3" */)
+{	
+	std::string filePath = getBgMusicPath(id,fileSuffix);
+	SimpleAudioEngine::sharedEngine()->playBackgroundMusic(filePath.c_str(),true);
+	return true;
+}
+
+bool GameAudioManager::PlayOneEffect(unsigned int id,const char* fileSuffix /* = ".mp3" */)
+{
+	std::string filePath = getEffectMusicPath(id,fileSuffix);
+	SimpleAudioEngine::sharedEngine()->playEffect(filePath.c_str());
+	return true;
+}
+
+bool GameAudioManager::PlayOneEffectInBattle(unsigned int id,const char* fileSuffix /* = ".mp3" */)
+{
+	std::map<unsigned int,SoundData>::iterator iter = mapSoundInBattle.find(id);
+	if (iter == mapSoundInBattle.end())
+	{
+		SoundData data;
+		if (SoundConfigDataCenter::Get()->GetOneSoundData(id,data))
+		{
+			mapSoundInBattle.insert(std::make_pair(id,data));
+		}
+		return PlayOneEffect(id,fileSuffix);
+	}
+	
+	return false;
+}
+
+void GameAudioManager::SetBgVolume(float value)
+{
+	SimpleAudioEngine::sharedEngine()->setBackgroundMusicVolume(value);
+}
+
+void GameAudioManager::SetEffectVolume(float value)
+{
+	SimpleAudioEngine::sharedEngine()->setEffectsVolume(value);
+}
+
+bool GameAudioManager::IsBattleEffectPlaying(unsigned int id)
+{
+	std::map<unsigned int,SoundData>::iterator iter = mapSoundInBattle.find(id);
+	if (iter == mapSoundInBattle.end())
+	{
+		return false;
+	}
+	return true;
+}
+
+void GameAudioManager::Update(float dt)
+{
+	for (std::map<unsigned int,SoundData>::iterator iter = mapSoundInBattle.begin();
+		iter != mapSoundInBattle.end();)
+	{
+		(*iter).second.runningTimer += dt;
+		if ((*iter).second.runningTimer >= (*iter).second.lastTimer)
+		{
+			mapSoundInBattle.erase(iter++);
+		}
+		else
+		{
+			iter ++;
+		}
+	}
+}
+
+void GameAudioManager::PreLoadAllNeedMusic(unsigned int bgMusicId,const std::vector<unsigned int>& effectMusicIds)
+{
+	if (bgMusicId != 0)
+	{
+		std::string path = getBgMusicPath(bgMusicId);
+		SimpleAudioEngine::sharedEngine()->preloadBackgroundMusic(path.c_str());
+	}
+	for (std::vector<unsigned int>::const_iterator iter = effectMusicIds.begin();
+		iter != effectMusicIds.end(); iter++)
+	{
+		std::string path = getEffectMusicPath((*iter));
+		SimpleAudioEngine::sharedEngine()->preloadEffect(path.c_str());
+	}
+}

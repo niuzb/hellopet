@@ -1,0 +1,2332 @@
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>swordsman_common_move:asa/11.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{632,350},{77,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,43}}</string>
+                <key>sourceSize</key>
+                <string>{77,43}</string>
+            </dict>
+            <key>swordsman_common_move:asa/12.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{74,264},{79,45}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,45}}</string>
+                <key>sourceSize</key>
+                <string>{79,45}</string>
+            </dict>
+            <key>swordsman_common_move:asa/13.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{283,222},{79,49}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,49}}</string>
+                <key>sourceSize</key>
+                <string>{79,49}</string>
+            </dict>
+            <key>swordsman_common_move:asa/14.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{74,213},{80,48}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,48}}</string>
+                <key>sourceSize</key>
+                <string>{80,48}</string>
+            </dict>
+            <key>swordsman_common_move:asa/15.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{283,169},{80,50}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,50}}</string>
+                <key>sourceSize</key>
+                <string>{80,50}</string>
+            </dict>
+            <key>swordsman_common_move:asa/16.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{74,160},{81,50}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{81,50}}</string>
+                <key>sourceSize</key>
+                <string>{81,50}</string>
+            </dict>
+            <key>swordsman_common_move:asa/17.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,241},{76,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{76,52}}</string>
+                <key>sourceSize</key>
+                <string>{76,52}</string>
+            </dict>
+            <key>swordsman_common_move:asa/19.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{643,249},{74,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,52}}</string>
+                <key>sourceSize</key>
+                <string>{74,52}</string>
+            </dict>
+            <key>swordsman_common_move:asa/20.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{561,188},{79,50}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,50}}</string>
+                <key>sourceSize</key>
+                <string>{79,50}</string>
+            </dict>
+            <key>swordsman_common_move:b jiao3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{721,244},{9,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{9,10}}</string>
+                <key>sourceSize</key>
+                <string>{9,10}</string>
+            </dict>
+            <key>swordsman_common_move:b p1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{777,421},{72,29}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{72,29}}</string>
+                <key>sourceSize</key>
+                <string>{72,29}</string>
+            </dict>
+            <key>swordsman_common_move:b p2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{161,412},{73,36}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,36}}</string>
+                <key>sourceSize</key>
+                <string>{73,36}</string>
+            </dict>
+            <key>swordsman_common_move:b p3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{522,426},{66,29}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{66,29}}</string>
+                <key>sourceSize</key>
+                <string>{66,29}</string>
+            </dict>
+            <key>swordsman_common_move:b p4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{591,438},{74,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,17}}</string>
+                <key>sourceSize</key>
+                <string>{74,17}</string>
+            </dict>
+            <key>swordsman_common_move:b shenti1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{823,350},{18,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,17}}</string>
+                <key>sourceSize</key>
+                <string>{18,17}</string>
+            </dict>
+            <key>swordsman_common_move:b shenti3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,137},{23,26}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{23,26}}</string>
+                <key>sourceSize</key>
+                <string>{23,26}</string>
+            </dict>
+            <key>swordsman_common_move:b shou1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{720,270},{10,7}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{10,7}}</string>
+                <key>sourceSize</key>
+                <string>{10,7}</string>
+            </dict>
+            <key>swordsman_common_move:b shoubi4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{823,328},{19,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,19}}</string>
+                <key>sourceSize</key>
+                <string>{19,19}</string>
+            </dict>
+            <key>swordsman_common_move:b shoubi6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{153,325},{27,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{27,11}}</string>
+                <key>sourceSize</key>
+                <string>{27,11}</string>
+            </dict>
+            <key>swordsman_common_move:b shoubi7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{807,316},{13,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,18}}</string>
+                <key>sourceSize</key>
+                <string>{13,18}</string>
+            </dict>
+            <key>swordsman_common_move:b tou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{830,174},{39,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{39,39}}</string>
+                <key>sourceSize</key>
+                <string>{39,39}</string>
+            </dict>
+            <key>swordsman_common_move:b tou3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{830,216},{38,38}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{38,38}}</string>
+                <key>sourceSize</key>
+                <string>{38,38}</string>
+            </dict>
+            <key>swordsman_common_move:b tui5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{453,266},{19,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,22}}</string>
+                <key>sourceSize</key>
+                <string>{19,22}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{785,277},{37,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{37,18}}</string>
+                <key>sourceSize</key>
+                <string>{37,18}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{825,285},{37,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{37,18}}</string>
+                <key>sourceSize</key>
+                <string>{37,18}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,385},{63,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,44}}</string>
+                <key>sourceSize</key>
+                <string>{63,44}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing12.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{469,365},{72,47}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{72,47}}</string>
+                <key>sourceSize</key>
+                <string>{72,47}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing13.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{874,133},{62,67}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{62,67}}</string>
+                <key>sourceSize</key>
+                <string>{62,67}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing15.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{253,408},{74,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,40}}</string>
+                <key>sourceSize</key>
+                <string>{74,40}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{865,377},{64,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{64,46}}</string>
+                <key>sourceSize</key>
+                <string>{64,46}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{866,269},{63,55}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,55}}</string>
+                <key>sourceSize</key>
+                <string>{63,55}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,224},{71,55}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{71,55}}</string>
+                <key>sourceSize</key>
+                <string>{71,55}</string>
+            </dict>
+            <key>swordsman_common_move:b weijing9.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,282},{67,49}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{67,49}}</string>
+                <key>sourceSize</key>
+                <string>{67,49}</string>
+            </dict>
+            <key>swordsman_common_move:b youjiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{348,379},{18,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,15}}</string>
+                <key>sourceSize</key>
+                <string>{18,15}</string>
+            </dict>
+            <key>swordsman_common_move:b youjiao 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{986,379},{18,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,15}}</string>
+                <key>sourceSize</key>
+                <string>{18,15}</string>
+            </dict>
+            <key>swordsman_common_move:b youjiao 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1005,399},{12,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,14}}</string>
+                <key>sourceSize</key>
+                <string>{12,14}</string>
+            </dict>
+            <key>swordsman_common_move:b youjiao2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{721,213},{9,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{9,13}}</string>
+                <key>sourceSize</key>
+                <string>{9,13}</string>
+            </dict>
+            <key>swordsman_common_move:b youtui4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1007,379},{13,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,17}}</string>
+                <key>sourceSize</key>
+                <string>{13,17}</string>
+            </dict>
+            <key>swordsman_common_move:b zuojiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{445,312},{22,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{22,19}}</string>
+                <key>sourceSize</key>
+                <string>{22,19}</string>
+            </dict>
+            <key>swordsman_common_move:b zuojiao 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{824,306},{22,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{22,19}}</string>
+                <key>sourceSize</key>
+                <string>{22,19}</string>
+            </dict>
+            <key>swordsman_common_move:b zuojiao 2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{849,306},{13,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,18}}</string>
+                <key>sourceSize</key>
+                <string>{13,18}</string>
+            </dict>
+            <key>swordsman_common_move:b zuotui2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{721,192},{10,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{10,18}}</string>
+                <key>sourceSize</key>
+                <string>{10,18}</string>
+            </dict>
+            <key>swordsman_common_move:b zuotui3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{973,397},{12,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,15}}</string>
+                <key>sourceSize</key>
+                <string>{12,15}</string>
+            </dict>
+            <key>swordsman_common_move:c jiao 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{805,358},{15,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,16}}</string>
+                <key>sourceSize</key>
+                <string>{15,16}</string>
+            </dict>
+            <key>swordsman_common_move:c tui2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,31},{28,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{28,25}}</string>
+                <key>sourceSize</key>
+                <string>{28,25}</string>
+            </dict>
+            <key>swordsman_common_move:cvxvxxv.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,290},{24,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{24,19}}</string>
+                <key>sourceSize</key>
+                <string>{24,19}</string>
+            </dict>
+            <key>swordsman_common_move:cxx.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,166},{25,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{25,22}}</string>
+                <key>sourceSize</key>
+                <string>{25,22}</string>
+            </dict>
+            <key>swordsman_common_move:cxzczxczxzx.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,191},{22,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{22,25}}</string>
+                <key>sourceSize</key>
+                <string>{22,25}</string>
+            </dict>
+            <key>swordsman_common_move:dad/b tou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{158,207},{39,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{39,39}}</string>
+                <key>sourceSize</key>
+                <string>{39,39}</string>
+            </dict>
+            <key>swordsman_common_move:dad/p234.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{650,133},{78,56}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,56}}</string>
+                <key>sourceSize</key>
+                <string>{78,56}</string>
+            </dict>
+            <key>swordsman_common_move:dad/p3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{470,319},{77,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,43}}</string>
+                <key>sourceSize</key>
+                <string>{77,43}</string>
+            </dict>
+            <key>swordsman_common_move:dad/p4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,341},{79,41}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,41}}</string>
+                <key>sourceSize</key>
+                <string>{79,41}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/shenti 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{445,356},{21,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,15}}</string>
+                <key>sourceSize</key>
+                <string>{21,15}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/weijing1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{783,298},{38,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{38,15}}</string>
+                <key>sourceSize</key>
+                <string>{38,15}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/youbi2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{157,249},{35,32}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{35,32}}</string>
+                <key>sourceSize</key>
+                <string>{35,32}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/youjiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{829,257},{34,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{34,25}}</string>
+                <key>sourceSize</key>
+                <string>{34,25}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/youshou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{783,316},{21,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,18}}</string>
+                <key>sourceSize</key>
+                <string>{21,18}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/youtui.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,219},{22,25}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{22,25}}</string>
+                <key>sourceSize</key>
+                <string>{22,25}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/zuobi1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{823,389},{14,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,15}}</string>
+                <key>sourceSize</key>
+                <string>{14,15}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/zuobi2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{785,246},{41,28}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{41,28}}</string>
+                <key>sourceSize</key>
+                <string>{41,28}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/zuojiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{148,358},{20,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{20,16}}</string>
+                <key>sourceSize</key>
+                <string>{20,16}</string>
+            </dict>
+            <key>swordsman_common_move:gujia/zuotui.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,88},{29,21}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{29,21}}</string>
+                <key>sourceSize</key>
+                <string>{29,21}</string>
+            </dict>
+            <key>swordsman_common_move:hujian 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{956,393},{14,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,15}}</string>
+                <key>sourceSize</key>
+                <string>{14,15}</string>
+            </dict>
+            <key>swordsman_common_move:hujian2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{804,377},{16,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,16}}</string>
+                <key>sourceSize</key>
+                <string>{16,16}</string>
+            </dict>
+            <key>swordsman_common_move:jianbang 2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{783,337},{19,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,19}}</string>
+                <key>sourceSize</key>
+                <string>{19,19}</string>
+            </dict>
+            <key>swordsman_common_move:jiao1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{453,214},{18,26}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,26}}</string>
+                <key>sourceSize</key>
+                <string>{18,26}</string>
+            </dict>
+            <key>swordsman_common_move:jiao4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,112},{28,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{28,22}}</string>
+                <key>sourceSize</key>
+                <string>{28,22}</string>
+            </dict>
+            <key>swordsman_common_move:kudang.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{844,387},{16,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,14}}</string>
+                <key>sourceSize</key>
+                <string>{16,14}</string>
+            </dict>
+            <key>swordsman_common_move:nv jian d2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{200,157}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,157}}</string>
+                <key>sourceSize</key>
+                <string>{200,157}</string>
+            </dict>
+            <key>swordsman_common_move:nvjian d1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{387,0},{174,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{174,125}}</string>
+                <key>sourceSize</key>
+                <string>{174,125}</string>
+            </dict>
+            <key>swordsman_common_move:nvjian d3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{564,0},{167,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{167,130}}</string>
+                <key>sourceSize</key>
+                <string>{167,130}</string>
+            </dict>
+            <key>swordsman_common_move:nvjian d5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{203,0},{181,166}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{181,166}}</string>
+                <key>sourceSize</key>
+                <string>{181,166}</string>
+            </dict>
+            <key>swordsman_common_move:p 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{281,274},{78,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,46}}</string>
+                <key>sourceSize</key>
+                <string>{78,46}</string>
+            </dict>
+            <key>swordsman_common_move:p123.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{330,423},{61,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{61,39}}</string>
+                <key>sourceSize</key>
+                <string>{61,39}</string>
+            </dict>
+            <key>swordsman_common_move:p2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{632,304},{78,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,43}}</string>
+                <key>sourceSize</key>
+                <string>{78,43}</string>
+            </dict>
+            <key>swordsman_common_move:p233.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,334},{65,48}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{65,48}}</string>
+                <key>sourceSize</key>
+                <string>{65,48}</string>
+            </dict>
+            <key>swordsman_common_move:p3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{626,396},{77,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,39}}</string>
+                <key>sourceSize</key>
+                <string>{77,39}</string>
+            </dict>
+            <key>swordsman_common_move:p334.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{932,292},{56,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{56,52}}</string>
+                <key>sourceSize</key>
+                <string>{56,52}</string>
+            </dict>
+            <key>swordsman_common_move:p4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{171,370},{79,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,39}}</string>
+                <key>sourceSize</key>
+                <string>{79,39}</string>
+            </dict>
+            <key>swordsman_common_move:p4334.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{706,396},{68,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{68,40}}</string>
+                <key>sourceSize</key>
+                <string>{68,40}</string>
+            </dict>
+            <key>swordsman_common_move:p5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{70,312},{80,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,40}}</string>
+                <key>sourceSize</key>
+                <string>{80,40}</string>
+            </dict>
+            <key>swordsman_common_move:p6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{544,385},{79,38}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,38}}</string>
+                <key>sourceSize</key>
+                <string>{79,38}</string>
+            </dict>
+            <key>swordsman_common_move:p7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{265,366},{80,39}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,39}}</string>
+                <key>sourceSize</key>
+                <string>{80,39}</string>
+            </dict>
+            <key>swordsman_common_move:p8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{275,323},{80,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,40}}</string>
+                <key>sourceSize</key>
+                <string>{80,40}</string>
+            </dict>
+            <key>swordsman_common_move:p9.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{183,326},{79,41}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,41}}</string>
+                <key>sourceSize</key>
+                <string>{79,41}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng 123.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,296},{79,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,42}}</string>
+                <key>sourceSize</key>
+                <string>{79,42}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 1 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{201,169},{79,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,52}}</string>
+                <key>sourceSize</key>
+                <string>{79,52}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 13.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{643,192},{75,54}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{75,54}}</string>
+                <key>sourceSize</key>
+                <string>{75,54}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 15.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{383,188},{67,63}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{67,63}}</string>
+                <key>sourceSize</key>
+                <string>{67,63}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 16.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,160},{71,61}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{71,61}}</string>
+                <key>sourceSize</key>
+                <string>{71,61}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 17.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,128},{70,72}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{70,72}}</string>
+                <key>sourceSize</key>
+                <string>{70,72}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{195,277},{77,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,46}}</string>
+                <key>sourceSize</key>
+                <string>{77,46}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{950,416},{66,38}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{66,38}}</string>
+                <key>sourceSize</key>
+                <string>{66,38}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{68,355},{77,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,43}}</string>
+                <key>sourceSize</key>
+                <string>{77,43}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{561,133},{86,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{86,52}}</string>
+                <key>sourceSize</key>
+                <string>{86,52}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{387,128},{87,57}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{87,57}}</string>
+                <key>sourceSize</key>
+                <string>{87,57}</string>
+            </dict>
+            <key>swordsman_common_move:pifeng/6 8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,263},{70,53}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{70,53}}</string>
+                <key>sourceSize</key>
+                <string>{70,53}</string>
+            </dict>
+            <key>swordsman_common_move:sdfgfff34444.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{734,0},{139,124}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{139,124}}</string>
+                <key>sourceSize</key>
+                <string>{139,124}</string>
+            </dict>
+            <key>swordsman_common_move:shenti.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{358,345},{21,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,15}}</string>
+                <key>sourceSize</key>
+                <string>{21,15}</string>
+            </dict>
+            <key>swordsman_common_move:shenti 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{148,377},{19,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,15}}</string>
+                <key>sourceSize</key>
+                <string>{19,15}</string>
+            </dict>
+            <key>swordsman_common_move:shenti 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{444,374},{19,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,15}}</string>
+                <key>sourceSize</key>
+                <string>{19,15}</string>
+            </dict>
+            <key>swordsman_common_move:shenti4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{845,348},{17,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{17,17}}</string>
+                <key>sourceSize</key>
+                <string>{17,17}</string>
+            </dict>
+            <key>swordsman_common_move:shou 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{445,334},{19,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,19}}</string>
+                <key>sourceSize</key>
+                <string>{19,19}</string>
+            </dict>
+            <key>swordsman_common_move:shoub8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,189},{7,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{7,16}}</string>
+                <key>sourceSize</key>
+                <string>{7,16}</string>
+            </dict>
+            <key>swordsman_common_move:shoubi 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{148,395},{19,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,9}}</string>
+                <key>sourceSize</key>
+                <string>{19,9}</string>
+            </dict>
+            <key>swordsman_common_move:shoubi 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{629,258},{11,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,13}}</string>
+                <key>sourceSize</key>
+                <string>{11,13}</string>
+            </dict>
+            <key>swordsman_common_move:shoubi 6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,164},{8,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{8,22}}</string>
+                <key>sourceSize</key>
+                <string>{8,22}</string>
+            </dict>
+            <key>swordsman_common_move:shoubi5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{781,395},{19,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,9}}</string>
+                <key>sourceSize</key>
+                <string>{19,9}</string>
+            </dict>
+            <key>swordsman_common_move:shoubi6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,272},{29,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{29,15}}</string>
+                <key>sourceSize</key>
+                <string>{29,15}</string>
+            </dict>
+            <key>swordsman_common_move:shoubi7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{366,169},{14,31}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,31}}</string>
+                <key>sourceSize</key>
+                <string>{14,31}</string>
+            </dict>
+            <key>swordsman_common_move:shoubi8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,128},{8,33}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{8,33}}</string>
+                <key>sourceSize</key>
+                <string>{8,33}</string>
+            </dict>
+            <key>swordsman_common_move:tou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{733,242},{49,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,42}}</string>
+                <key>sourceSize</key>
+                <string>{49,42}</string>
+            </dict>
+            <key>swordsman_common_move:tou 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{938,243},{50,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{50,46}}</string>
+                <key>sourceSize</key>
+                <string>{50,46}</string>
+            </dict>
+            <key>swordsman_common_move:tou 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{932,347},{51,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{51,43}}</string>
+                <key>sourceSize</key>
+                <string>{51,43}</string>
+            </dict>
+            <key>swordsman_common_move:tou11.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{720,287},{60,56}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,56}}</string>
+                <key>sourceSize</key>
+                <string>{60,56}</string>
+            </dict>
+            <key>swordsman_common_move:tousdada.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{382,310},{60,55}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,55}}</string>
+                <key>sourceSize</key>
+                <string>{60,55}</string>
+            </dict>
+            <key>swordsman_common_move:tui6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,0},{29,28}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{29,28}}</string>
+                <key>sourceSize</key>
+                <string>{29,28}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 14.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{459,415},{60,46}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,46}}</string>
+                <key>sourceSize</key>
+                <string>{60,46}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 17.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{713,346},{65,47}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{65,47}}</string>
+                <key>sourceSize</key>
+                <string>{65,47}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 18.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{66,401},{74,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,40}}</string>
+                <key>sourceSize</key>
+                <string>{74,40}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 19.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{852,426},{74,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,19}}</string>
+                <key>sourceSize</key>
+                <string>{74,19}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 21.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{394,423},{56,30}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{56,30}}</string>
+                <key>sourceSize</key>
+                <string>{56,30}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 27.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{383,254},{67,53}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{67,53}}</string>
+                <key>sourceSize</key>
+                <string>{67,53}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 30.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,203},{70,57}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{70,57}}</string>
+                <key>sourceSize</key>
+                <string>{70,57}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 31.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{872,203},{63,63}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,63}}</string>
+                <key>sourceSize</key>
+                <string>{63,63}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 33.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{382,368},{59,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{59,52}}</string>
+                <key>sourceSize</key>
+                <string>{59,52}</string>
+            </dict>
+            <key>swordsman_common_move:weijing 36.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{865,327},{64,47}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{64,47}}</string>
+                <key>sourceSize</key>
+                <string>{64,47}</string>
+            </dict>
+            <key>swordsman_common_move:weijing25.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{200,224},{78,50}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,50}}</string>
+                <key>sourceSize</key>
+                <string>{78,50}</string>
+            </dict>
+            <key>swordsman_common_move:wuqi_1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{785,127},{42,116}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{42,116}}</string>
+                <key>sourceSize</key>
+                <string>{42,116}</string>
+            </dict>
+            <key>swordsman_common_move:wuqi_20.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{939,0},{50,119}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{50,119}}</string>
+                <key>sourceSize</key>
+                <string>{50,119}</string>
+            </dict>
+            <key>swordsman_common_move:wuqi_40.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{734,127},{48,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{48,112}}</string>
+                <key>sourceSize</key>
+                <string>{48,112}</string>
+            </dict>
+            <key>swordsman_common_move:wuqi_60.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{939,122},{49,118}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,118}}</string>
+                <key>sourceSize</key>
+                <string>{49,118}</string>
+            </dict>
+            <key>swordsman_common_move:wuqi_80.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{876,0},{60,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,130}}</string>
+                <key>sourceSize</key>
+                <string>{60,130}</string>
+            </dict>
+            <key>swordsman_common_move:youbi 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,332},{24,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{24,14}}</string>
+                <key>sourceSize</key>
+                <string>{24,14}</string>
+            </dict>
+            <key>swordsman_common_move:youbi1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{365,229},{15,20}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,20}}</string>
+                <key>sourceSize</key>
+                <string>{15,20}</string>
+            </dict>
+            <key>swordsman_common_move:youbi2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{720,257},{10,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{10,10}}</string>
+                <key>sourceSize</key>
+                <string>{10,10}</string>
+            </dict>
+            <key>swordsman_common_move:youbi9.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{781,359},{20,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{20,16}}</string>
+                <key>sourceSize</key>
+                <string>{20,16}</string>
+            </dict>
+            <key>swordsman_common_move:youjian.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,312},{22,17}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{22,17}}</string>
+                <key>sourceSize</key>
+                <string>{22,17}</string>
+            </dict>
+            <key>swordsman_common_move:youshou 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{932,393},{21,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,10}}</string>
+                <key>sourceSize</key>
+                <string>{21,10}</string>
+            </dict>
+            <key>swordsman_common_move:youshou 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{823,370},{18,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,16}}</string>
+                <key>sourceSize</key>
+                <string>{18,16}</string>
+            </dict>
+            <key>swordsman_common_move:z jiao 3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{805,337},{15,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,18}}</string>
+                <key>sourceSize</key>
+                <string>{15,18}</string>
+            </dict>
+            <key>swordsman_common_move:z jiao1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{849,327},{13,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,18}}</string>
+                <key>sourceSize</key>
+                <string>{13,18}</string>
+            </dict>
+            <key>swordsman_common_move:z jiao3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{721,229},{9,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{9,12}}</string>
+                <key>sourceSize</key>
+                <string>{9,12}</string>
+            </dict>
+            <key>swordsman_common_move:z jiao5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,208},{7,7}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{7,7}}</string>
+                <key>sourceSize</key>
+                <string>{7,7}</string>
+            </dict>
+            <key>swordsman_common_move:z jiao6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{366,203},{14,23}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,23}}</string>
+                <key>sourceSize</key>
+                <string>{14,23}</string>
+            </dict>
+            <key>swordsman_common_move:z jiao7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{330,408},{12,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,12}}</string>
+                <key>sourceSize</key>
+                <string>{12,12}</string>
+            </dict>
+            <key>swordsman_common_move:z jiao8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{932,406},{15,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,10}}</string>
+                <key>sourceSize</key>
+                <string>{15,10}</string>
+            </dict>
+            <key>swordsman_common_move:z kudang.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{840,404},{18,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,8}}</string>
+                <key>sourceSize</key>
+                <string>{18,8}</string>
+            </dict>
+            <key>swordsman_common_move:z lian.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{992,59},{25,26}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{25,26}}</string>
+                <key>sourceSize</key>
+                <string>{25,26}</string>
+            </dict>
+            <key>swordsman_common_move:z shenti.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{453,243},{21,20}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,20}}</string>
+                <key>sourceSize</key>
+                <string>{21,20}</string>
+            </dict>
+            <key>swordsman_common_move:z shenti3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{991,247},{23,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{23,22}}</string>
+                <key>sourceSize</key>
+                <string>{23,22}</string>
+            </dict>
+            <key>swordsman_common_move:z shou 6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{986,364},{23,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{23,12}}</string>
+                <key>sourceSize</key>
+                <string>{23,12}</string>
+            </dict>
+            <key>swordsman_common_move:z shou 7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{153,339},{21,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,16}}</string>
+                <key>sourceSize</key>
+                <string>{21,16}</string>
+            </dict>
+            <key>swordsman_common_move:z shou7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{986,349},{24,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{24,12}}</string>
+                <key>sourceSize</key>
+                <string>{24,12}</string>
+            </dict>
+            <key>swordsman_common_move:z shoubi 4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{348,397},{12,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,16}}</string>
+                <key>sourceSize</key>
+                <string>{12,16}</string>
+            </dict>
+            <key>swordsman_common_move:z toufa.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{158,160},{40,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{40,44}}</string>
+                <key>sourceSize</key>
+                <string>{40,44}</string>
+            </dict>
+            <key>swordsman_common_move:z toufa 2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{830,127},{41,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{41,44}}</string>
+                <key>sourceSize</key>
+                <string>{41,44}</string>
+            </dict>
+            <key>swordsman_common_move:z tui 5.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{629,241},{11,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,14}}</string>
+                <key>sourceSize</key>
+                <string>{11,14}</string>
+            </dict>
+            <key>swordsman_common_move:z tui2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{781,378},{19,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,14}}</string>
+                <key>sourceSize</key>
+                <string>{19,14}</string>
+            </dict>
+            <key>swordsman_common_move:z tui3.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{365,252},{15,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,19}}</string>
+                <key>sourceSize</key>
+                <string>{15,19}</string>
+            </dict>
+            <key>swordsman_common_move:z tui4.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{844,368},{18,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,16}}</string>
+                <key>sourceSize</key>
+                <string>{18,16}</string>
+            </dict>
+            <key>swordsman_common_move:z tui6.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,274},{18,22}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{18,22}}</string>
+                <key>sourceSize</key>
+                <string>{18,22}</string>
+            </dict>
+            <key>swordsman_common_move:z tui7.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{453,291},{21,18}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,18}}</string>
+                <key>sourceSize</key>
+                <string>{21,18}</string>
+            </dict>
+            <key>swordsman_common_move:z tui8.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,299},{17,20}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{17,20}}</string>
+                <key>sourceSize</key>
+                <string>{17,20}</string>
+            </dict>
+            <key>swordsman_common_move:z weijing 1.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{156,284},{33,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{33,19}}</string>
+                <key>sourceSize</key>
+                <string>{33,19}</string>
+            </dict>
+            <key>swordsman_common_move:z youhujian.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{143,407},{15,10}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,10}}</string>
+                <key>sourceSize</key>
+                <string>{15,10}</string>
+            </dict>
+            <key>swordsman_common_move:z youjiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{362,322},{16,20}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,20}}</string>
+                <key>sourceSize</key>
+                <string>{16,20}</string>
+            </dict>
+            <key>swordsman_common_move:z youshou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{988,397},{14,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,12}}</string>
+                <key>sourceSize</key>
+                <string>{14,12}</string>
+            </dict>
+            <key>swordsman_common_move:z youshoubi.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{777,407},{14,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,11}}</string>
+                <key>sourceSize</key>
+                <string>{14,11}</string>
+            </dict>
+            <key>swordsman_common_move:z youtui.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{453,188},{21,23}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,23}}</string>
+                <key>sourceSize</key>
+                <string>{21,23}</string>
+            </dict>
+            <key>swordsman_common_move:z zuohujian.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{363,397},{14,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{14,13}}</string>
+                <key>sourceSize</key>
+                <string>{14,13}</string>
+            </dict>
+            <key>swordsman_common_move:z zuojiao.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{803,396},{15,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{15,13}}</string>
+                <key>sourceSize</key>
+                <string>{15,13}</string>
+            </dict>
+            <key>swordsman_common_move:z zuoshou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{358,363},{21,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{21,13}}</string>
+                <key>sourceSize</key>
+                <string>{21,13}</string>
+            </dict>
+            <key>swordsman_common_move:z zuoshoubi.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{821,407},{13,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,11}}</string>
+                <key>sourceSize</key>
+                <string>{13,11}</string>
+            </dict>
+            <key>swordsman_common_move:z zuotui.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{444,392},{19,13}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,13}}</string>
+                <key>sourceSize</key>
+                <string>{19,13}</string>
+            </dict>
+            <key>swordsman_common_move:zuobi2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{444,408},{12,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{12,8}}</string>
+                <key>sourceSize</key>
+                <string>{12,8}</string>
+            </dict>
+            <key>swordsman_common_move:zuoshou.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{156,306},{34,16}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{34,16}}</string>
+                <key>sourceSize</key>
+                <string>{34,16}</string>
+            </dict>
+            <key>swordsman_common_move:zuoshou 2.pvr.ccz</key>
+            <dict>
+                <key>frame</key>
+                <string>{{629,274},{11,8}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,8}}</string>
+                <key>sourceSize</key>
+                <string>{11,8}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>realTextureFileName</key>
+            <string>swordsman_common_move.pvr.ccz</string>
+            <key>size</key>
+            <string>{1022,463}</string>
+            <key>textureFileName</key>
+            <string>swordsman_common_move.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>
